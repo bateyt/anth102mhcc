@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+
+{% include image.html url="https://c1.staticflickr.com/3/2135/2149089991_c0575b3d41_z.jpg" description="Excavations at Champoeg State Park, Oregon. Image courtesy of John Atherton and licensed under CC BY-SA 2.0" %}
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

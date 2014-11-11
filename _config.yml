@@ -1,0 +1,17 @@
+# Site settings
+title: anth102mhcc
+email: trey.batey@mhcc.edu
+description: A repository of teaching materials and resources for ANTH 102 at Mt. Hood Community College
+baseurl: "/anth102mhcc" # the subpath of your site, e.g. /blog/
+url: "http://bateyt.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  bateyt
+
+# Build settings
+markdown: kramdown
+
+# Syntax highlighter
+highlighter: rouge
+
+# Set encoding
+encoding: utf-8
