@@ -48,7 +48,7 @@ Typically, new content will be released at midnight on Tuesdays. Thus, you will 
 
 Tues. | Wed. | Thurs. | Fri. | Sat. & Sun. | Mon.
 ----- | ---- | ------ | ---- | ---------- | ----
-Begin looking at new lesson content | Continue looking at content; maybe submit first discussion post | Continue looking at content; __submit first discussion post__ | Work on additional activities; maybe submit second discussion (response) post | Work on additional activities; __submit second discussion (response) post__; take quiz | Take quiz; respond to discussion forum as wanted
+Begin looking at new lesson content | Continue looking at content; submit first discussion post | Continue looking at content; __deadline to submit initial thread post to discussion forum__ | Work on additional activities; maybe submit second discussion (response) post | Work on additional activities; __deadline to submit at least one of two required response posts to discussion forum__; take quiz | __Deadline to take quiz; deadline to submit respond to discussion forum as wanted
 
 
 ## Communication Guidelines

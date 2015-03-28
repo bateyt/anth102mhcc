@@ -1,0 +1,52 @@
+---
+title: "Lesson 10 Discussion:  Rise and Fall in the Americas"
+author: "ANTH 102-W1---Fall 2014"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+We are at the end of our survey of world prehistory. We've now jumped over to the Western Hemisphere in our discussion of the development of some of the better-known civilizations of the ancient world. Of course, we've already mentioned the rich prehistory of humans as they continued to spread throughout the Old World---eventually reaching the Americas by about 15,000 yBP, if not earlier. In this discussion activity, we will be looking at the rise (and fall) of some of our surveyed civilizations of the Americas. Archaeology in the Western Hemisphere provides a rich archaeological record for studying the dynamic patterns of development and decline of human cultures, as city-state polities emerged (some later becoming empires) and fell. The first case-study we consider is the Maya.
+
+As discussed in lecture and supplementary readings, Maya civilization reached their peak around 600 CE. Then, beginning around 800 CE, large ceremonial centers like [Copan](http://www.learner.org/interactives/collapse/mayans.html) and the site of [Tikal](http://ngm.nationalgeographic.com/2007/08/maya-rise-fall/map-interactive) began to decline.
+
+The Aztec civilization offers another example of the [rapid collapse of an empire](http://www.aztec-history.com/fall-of-the-aztec-empire.html), with outside military aggression playing an even larger role. A number of factors contributed to the ease with which Spanish forces, led by [Hernando Cortes](http://www.pbs.org/conquistadors/cortes/cortes_flat.html), conquered the Aztec people.
+
+By the time Spanish explorers reached the Maya, their numbers had already dwindled. The Inca civilization, on the other hand, was in the active process of decline at the time of European contact. [Internal strife](http://www.pbs.org/wgbh/nova/ancient/great-inca-rebellion.html) had already begun to weaken the empire. Royal sites, like Machu Picchu were abandoned, lost for centuries.
+ 
+
+### Instructions
+After going through the lesson content, including textbook readings, slideshow, and other electronic resources, create an initial thread and respond to the following: 
+
+- First, share some original thoughts on what you found most interesting and/or surprising about any of the civilizations covered in this lesson. _Next_, think about the rise and collapse of some of the civilizations we've covered, and comment on __*one*__ of these questions: 
+    + What factors may have contributed to the collapse of the Classic Maya civilization (include some examples of supporting evidence?
+    + What are some similarities/differences in the rise and fall of civilizations like the Maya, Aztec, and Inca?
+    
+- _On a separate day than your original post_, return to the discussion forum and submit a response to at least one classmate's original thread post. After that, feel free to comment as you like.
+
+
+### Evaluation Criteria
+
+You will be evaluated using the same criteria as other discussion activities:
+
+- Content: There is no required word count, _per se_, but you must adequately address the questions posed and provide a meaningful, well-thought response. Did you answer the discussion question (and reply) with a thoughtful response that includes references to material presented in the lecture, readings, and/or web-readings?
+
+- Grammar/style: Did you use proper grammar and style (spelling, complete sentences€¦) making your post easy to understand?
+
+- Participation: Did you submit the required number of posts. Initial thread and response post must be made on separate days. [I suggest submitting your initial thread by Thursday (at the latest) and your response post one/two days later. You may submit more than one response post.]
+
+- Follow the general guidelines of discussion etiquette (see Syllabus).
+
+
+### Getting Started
+To prepare for this discussion, you should watch the lecture slideshow and, assuming you have the textbook, skim through the supplemental readings.
+
+- Access the Discussion Forum, "Rise and Fall in the Americas" and follow the instructions above.
+
+- Remember, you must make your second discussion post on a different date than your original post.
+
+-----
+
+#### Continue
+__Be sure to mark this page as "reviewed."__ Then, go to the next page to access a link to the discussion forum. If the forum does not automatically open in a new window, click "€œClick to Launch."

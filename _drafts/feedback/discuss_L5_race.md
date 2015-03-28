@@ -1,0 +1,4 @@
+---
+---
+
+This is what I was wanting you all to grasp---the difference between what might be the only sensible biological application of the term "race" (i.e., various, largely-geographically distributed variation in populations of the same species) and the social concept of race. Biological evidence does not support that how the social concept of race is applied. In other words, human biological (nor behavioral) variation does not conform to strict and unchanging, discrete categories. Additionally, the most important physical characteristic---skin color---that has been used to define human "races," is nothing more than _Homo sapiens_'evolutionary adaptation related to protection from over-exposure to UV-radiation. It all boils down to what biologists call __clinal variation__, variation that follows a continuous, geographic gradient and an individuals recent and deep "ancestry."

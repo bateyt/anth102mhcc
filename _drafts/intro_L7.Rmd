@@ -1,0 +1,36 @@
+---
+title: "Lesson 6 Introduction"
+author: "ANTH 102-W1---Fall 2014"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+In the previous lesson, you explored the early origins of agriculture and social complexity, but the discussion was limited to the region of the Near East (Levant)---specifically with the Natufian culture and later Neolithic cultures---and, to a lesser degree, southeastern Europe (i.e., LBK culture). In this lesson, we'll broaden our scope to consider domestication of plants and animals and developments in social complexity in other regions of the world, particularly in North and South America (including what is often termed “Mesoamerica”), Africa, China, and some parts of [Australasia](http://en.wikipedia.org/wiki/Australasia).
+ 
+While some of the information covered in this lesson may be a review of concepts we've already discussed, we will be looking at some new information, too. In particular, we'll look at some of the "mound-building" cultures of ancient North America, like the Adena and Hopewell cultures. One thing that this lesson will do is further illustrate that archaeological evidence gathered since the mid-1900's does not support V. Gordon Childe's concept of the Neolithic "Revolution." This isn't to discredit Childe; he was working within the theoretical frameworks and data available at that time. As with other sciences, though, our models of the past must change, or at least be subjected to scrutiny, in light of new evidence.
+
+### Objectives
+
+By the end of this lesson, you should understand the following:
+ 
+- The archaeological record of the domestication of __maize, beans, and squash__ in Mesoamerica.
+
+- The __impact of the adoption of maize agriculture__ on the Archaic societies of the southwestern United States and northern Mexico.
+
+- The complex interaction between _domestication of local plants species_ and the adoption of maize in __eastern North America__.
+
+- The context of the mound construction of the __Adena and Hopewell cultures__.
+
+- The role of __pastoralism__ and the timing for the introduction of pottery in Africa.
+
+- The nature and significance of the archaeological site at __Kuk Swamp__, New Guinea.
+
+- The relationship between the origin of village life and plant/animal domestication in the __Andes__.
+
+- The evidence from the _two centers_ of plant/animal domestication in __China__.
+
+-----
+#### Continue
+Continue through the module to access more.

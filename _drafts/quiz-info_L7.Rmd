@@ -1,0 +1,26 @@
+---
+title: "Quiz Info"
+author: "ANTH 102-W1---Fall 2014"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+After this lesson, you should have a better appreciation for the capacity for humans to adapt, the variation in how humans groups made use of the natural resources around them, and the ways in which social complexity developed in prehistory. This quiz focuses on some of the highlights (factoids) from Lesson 7.
+
+
+### What content is covered?
+This quiz reviews the terms and concepts contained in this lesson:  archaeological evidence for early plant/animal domestication and developments in social complexity in various regions around the world.
+
+### Quiz Environment
+This quiz is not proctored, and there is no time limit. You may use the lecture slideshow, textbook, and any other online resources provided to help you answer the questions. This quiz may only be taken once.
+
+### Availability
+The Lesson 7 Quiz will be available Thursday, 13 November and is due by the end of the day Monday. [Remember, you can always check due dates by clicking on the My Grades button in the left-side menu.]
+
+----
+
+#### Continue
+
+Go to the next page to access the Lesson 7 Quiz link (available 13 November).

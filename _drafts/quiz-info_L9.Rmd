@@ -1,0 +1,31 @@
+---
+title: "Quiz Info"
+author: "ANTH 102-W1---Fall 2014"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+After this lesson, you should have a better understanding of our selective survey of the development of social complexity and emergence of state-level societies in Asia. This quiz focuses on some of the highlights (factoids) from Lesson 9.
+
+
+### What content is covered?
+This quiz reviews the terms and concepts contained in this lesson:  
+
+- the development, influence, and decline of the Harappan culture in the Indus River valley.; 
+- the development of social complexity in the Yellow River valley of China; and
+- the development and influence of the Khmer culture of present-day Cambodia.
+
+
+### Quiz Environment
+This quiz is not proctored, and there is no time limit. You may use the lecture slideshow, textbook, and any other online resources provided to help you answer the questions. This quiz may only be taken once.
+
+### Availability
+The Lesson 9 Quiz will be available Thursday, 27 November and is due by the end of the day Monday. [Remember, you can always check due dates by clicking on the My Grades button in the left-side menu.]
+
+----
+
+#### Continue
+
+Go to the next page to access the Lesson 9 Quiz link (available 27 November).
