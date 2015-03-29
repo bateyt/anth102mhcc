@@ -4,7 +4,7 @@ email: trey.batey@mhcc.edu
 description: A repository of teaching materials and resources for ANTH 102 at Mt. Hood Community College
 baseurl: "/anth102mhcc" # the subpath of your site, e.g. /blog/
 url: "http://bateyt.github.io" # the base hostname & protocol for your site
-twitter_username: 
+twitter_username: bateytk
 github_username:  bateyt
 
 # Build settings
