@@ -1,6 +1,7 @@
 ---
 title: "Quiz Info"
-author: "ANTH 102-W1---Fall 2014"
+author: "ANTH 102-W1"
+date: "Spring 2015"
 output:
   html_document:
     fig_caption: yes
@@ -21,7 +22,7 @@ This quiz reviews the terms and concepts contained in this lesson:
 This quiz is not proctored, and there is no time limit. You may use the lecture slideshow, textbook, and any other online resources provided to help you answer the questions. This quiz may only be taken once.
 
 ### Availability
-The Lesson 10 Quiz will be available Wednesday, 3 December and is due by the end of the day Sunday. [__Please note the slightly different start/due dates for this week's quiz, as they have been modified since this is the week prior to finals week.__ Remember, you can always check due dates by clicking on the My Grades button in the left-side menu.]
+The Lesson 10 Quiz will be available __*Thursday*__ and must be completed by the end of the day __*Sunday*__. [__Please note the slightly different start/due dates for this week's quiz, as they have been modified since this is the week prior to finals week.__ Remember, you can always check due dates by clicking on the My Grades button in the left-side menu.]
 
 ----
 

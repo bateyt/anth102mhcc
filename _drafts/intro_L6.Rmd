@@ -1,0 +1,47 @@
+---
+title: "Lesson 6 Introduction"
+author: "ANTH 102-W1"
+date: "Spring 2015"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+The previous lesson took us on a journey from our early hominin ancestors to the Upper Paleolithic, when modern humans (and some other forms of *Homo*) were spreading throughout the Old World, eventually making it to the Western Hemisphere, too. As we saw, humanity's (literal) toolkit began to expand during this time period. This and other archaeological evidence suggests that humans were also <a href="http://www.nature.com/scitable/knowledge/library/the-transition-to-modern-behavior-86614339" target="_blank">behaviorally modern</a> by this time.
+
+<br>
+
+<CENTER><figure>
+<img src="http://upload.wikimedia.org/wikipedia/commons/1/1a/Lovers_9000BC_british_museum.jpg" width="300">
+<figcaption>The "Ain Sakhri Lovers" is a stone figurine thought to be associated with the Natufian culture of the Levantine Epipaleolithic. The exact provenience of the artifact has been debated since it was discovered by a local Bedouin not far south of Bethlehem in Palestine (today, Israel).</figcaption>
+</figure></CENTER>
+
+<br>
+
+Of the many human developments during the terminal-Pleistocene/early-Holocene (i.e., toward the end of the <a href="http://en.wikipedia.org/wiki/Last_Glacial_Maximum" target="_blank">Last Glacial Maximum</a>), arguably the most noteworthy include changes in settlement patterns and social complexity and the emergence of plant/animal domestication. As we will see in this and following lessons, these phenomena were not universal around the world. The degree to which some populations began to live in larger, more-permanent settlements and/or utilize plant and animal domesticates varied, depending on local conditions and other factors.
+
+<br>
+
+<CENTER><figure>
+<img src="http://upload.wikimedia.org/wikipedia/commons/3/3e/1911_Britannica-Archaeology-Neolithic.png" width="300">
+<figcaption>Examples of Neolithic stone tools from Europe and North Africa</figcaption>
+</figure></CENTER>
+
+<br>
+
+### Objectives
+
+By the end of this lesson, you should be able to accomplish the following:
+
+- Describe the process of the emergence of settled villages in the Near/Middle East (i.e., the Levant and "Fertile Crescent") and the related Epipaleolithic and Neolithic cultural periods.
+
+- Describe the process of domestication of plants and animals in the Near/Middle East.
+
+- Describe the relationship between domestication, villages, and technology in the development of agriculture in the Near/Middle East.
+
+- Describe the archaeological evidence for the spread of agriculture and animal domestication to Europe.
+
+-----
+#### Continue
+Continue through the module to access more.

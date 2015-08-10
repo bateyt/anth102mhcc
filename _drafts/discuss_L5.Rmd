@@ -1,0 +1,61 @@
+---
+title: "Lesson 5 Discussion:  Archaeology, Paleontology, and Human Evolution"
+author: "ANTH 102-W1"
+date: "Spring 2015"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+At this point in the module, I hope that you have an deeper appreciation of humanity's place among, and connection to, other living things. Also, you should be developing some understanding of where paleoanthropology fits within the larger study of human prehistory.
+
+In this discussion activity, you will address a common question that results from a basic misunderstanding of the process of biological evolution and human evolution, specifically. You will also share your thoughts on what you found particularly interesting or challenging from this material.
+
+<figure>
+  <img width="256" src="http://upload.wikimedia.org/wikipedia/commons/6/6f/Editorial_cartoon_depicting_Charles_Darwin_as_an_ape_%281871%29.jpg">
+  <figcaption>An 1871 editorial cartoon depicting Charles Darwin as an ape</figcaption>
+</figure>
+
+
+
+### Instructions
+To successfully participate in and complete this discussion activity, you will need to do the following:
+
+1. Create an initial thread in which you address __both__ questions below.
+    - How would you answer (with a short explanation) this common question:  If humans evolved from monkeys, why are there still monkeys?
+    
+    - What did you find most interesting and/or challenging about this lesson's content? Why?
+
+2. Submit a response post to __at least two__ classmates' initial threads. Remember, in framing your response, think about the following:
+    - What was your classmate's main point? Do you agree or disagree, and why?
+    - Did your classmate's comments challenge you to think about things that you may have not considered, or reconsider from a different perspective? How so?
+    - Is there anything you may contribute to your classmate's post?
+
+
+### Evaluation Criteria
+
+You will be evaluated using the same criteria as other discussion activities:
+
+- Content: There is no required word count, _per se_, but you must adequately address the questions posed and provide a meaningful, well-thought response. Did you answer the discussion question (and reply) with a thoughtful response that includes references to material presented in the lecture, readings, and/or web-readings?
+
+- Grammar/style: Did you use proper grammar and style (spelling, complete sentences€¦) making your post easy to understand?
+
+- Participation: Did you submit the required number of posts. Initial thread and response posts must be made on three separate days. [Students must submit their initial threads by the end-of-day Thursday (at the latest) and your response posts should come over the rest of the week. You may submit more than the minimum required.]
+
+- Follow the general guidelines of discussion etiquette (see Syllabus).
+
+
+### Getting Started
+
+Before you create that first thread...
+
+  - Go back through the content in the textbook, slideshow, and other resources. Jot down some notes that will help you respond to the discussion prompts. [Paleoanthropologist Ian Tattersall speaks with Neil deGrasse Tyson on this very thing.](https://youtu.be/w3kjztlE4y8)
+
+2. Access the Discussion Forum, "Archaeology, Paleontology, and Human Evolution" and follow the instructions above.
+
+
+-----
+
+#### Continue
+__Be sure to mark this page as "reviewed."__ Then, go to the next page to access a link to the discussion forum. If the forum does not automatically open in a new window, click "€œClick to Launch."

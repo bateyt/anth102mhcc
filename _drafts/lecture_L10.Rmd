@@ -1,6 +1,7 @@
 ---
 title: "Lesson 10 Lecture Info"
-author: "ANTH 102-W1---Fall 2014"
+author: "ANTH 102-W1"
+date: "Spring 2015"
 output:
   html_document:
     fig_caption: yes
@@ -14,27 +15,34 @@ This week's lesson includes a quiz and discussion forum. In addition to going ov
 ### Prehistoric Greatness in the Americas
 By now, you should have some appreciation of the development of social complexity, particularly regarding state-organized societies. You've seen some examples of how this process played out in parts of the Old World; now, we're going to consider these processes in the New World, specifically Mesoamerica and the Andean region of South America. 
 
-![Tomb of El Sacerdote at Sipan, Peru; image courtesy of Bruno Girin and licensed under CC-BY-SA-2.0 (available via Wikimedia Commons).](../assets/sipan_tomb_sacerdote.jpg)
+<br>
 
+<CENTER>
+<figure>
+  <img src="https://farm1.staticflickr.com/33/66141228_ebcd21388c_o_d.jpg" width="640" height="424">
+  <figcaption><i>In situ</i> tomb of El Se&ntilde;or de Sipan at Huaca Rajada, Peru. Artifacts and skeletons are reconstructions. Image courtesy of Bruno Girin and licensed under CC-BY-SA-2.0</figcaption>
+</figure>
+</CENTER>
+
+<br>
 
 ### A note on linked web resources
 Remember, take the time to check out the web-links I provide. Often, they (along with the textbook) clarify highlights that from the lecture slideshow.
 
 - Mesoamerica
-    + [Bulleted list outlining Mesoamerican prehistory](http://www.utexas.edu/courses/stross/ant322m_files/prehistory.htm)
-    + [Religion/cosmology of prehistoric Mesoamerica from PBS Nature](http://www.pbs.org/wnet/nature/spirits/html/body_intro.html)
-    + [Mayan city of Palenque, a UNESCO World Heritage Site](http://whc.unesco.org/en/list/411)
-    + [Aztec glyphic writing](http://www.ancientscripts.com/aztec.html)
+    + <a href="http://www.utexas.edu/courses/stross/ant322m_files/prehistory.htm" target="_blank">Bulleted list outlining Mesoamerican prehistory</a>
+    + <a href="http://www.ancientscripts.com/aztec.html" target="_blank">Aztec glyphic writing</a>
+    + <a href="http://gallery.sjsu.edu/sacrifice/precolumbian.html" target="_blank">Pre-Columbian human sacrifice</a> in the Americas
  
 - Andean South America
-    + [Peru's ancient past](http://www.sptimes.com/peru/piecing_together.html)
-    + [Lord of Sipan from the Moche culture](http://agutie.homestead.com/files/Sipan.htm)
-    + [Machu Picchu, a lasting treasure of the Inca](http://whc.unesco.org/en/list/274)
-    + [Peruvian mummies (they're not just for the Egyptians)](http://www.pbs.org/wgbh/nova/peru/)
-    + [Khipu:  recording data with knots](http://khipukamayuq.fas.harvard.edu/index.html)
+    + <a href="http://www.sptimes.com/peru/piecing_together.html" target="_blank">Peru's ancient past</a>
+    + The Moche's <a href="http://agutie.homestead.com/files/Sipan.htm" target="_blank">Lord of Sipan</a>
+    + <a href="http://whc.unesco.org/en/list/274" target="_blank">Machu Picchu</a>, a lasting treasure of the Inca
+    + <a href="http://www.pbs.org/wgbh/nova/peru/" target="_blank">Peruvian mummies</a> (they're not just for the Egyptians)
+    + <a href="http://quipus.wikispaces.com/The+Khipu+Database+Project" target="_blank">Khipu</a>:  recording data with knots
     
 - European Contact
-    +  [Interactive PBS documentary on Conquistadors in the Americas](http://www.pbs.org/opb/conquistadors/home.htm)
+    +  Interactive PBS documentary on <a href="http://www.pbs.org/opb/conquistadors/home.htm" target="_blank">Conquistadors in the Americas</a>
     
 
 __If a hyperlink doesn't work with a simple click, right-click and select "Open in a new tab/window."__

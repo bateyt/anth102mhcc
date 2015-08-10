@@ -1,0 +1,51 @@
+---
+title: "Lesson 4 Introduction"
+author: "ANTH 102-W1"
+date: "Spring 2015"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+So, now you know what archaeology is, how to do it, and how archaeologists interpret their results in order to reconstruct the past. Now, it's time to consider the state of archaeology today. In this lesson, we will further explore the following:  the __goals of archaeology__ and the __theoretical approaches archaeologists use__ to get from observed data to interpretation; the types of __education and training__ necessary to be a professional archaeologist; the growing importance of __public/community archaeology__; and __ethical issues__ related to archaeology.
+
+<!--Below, check out an aerial view of the <a href="http://www.nlm.nih.gov/nativevoices/exhibition/healing-ways/medicine-ways/medicine-wheel.html" target="_blank">Medicine Wheel</a>, an archaeological site with astronomical and biocultural significance, located within Bighorn National Forest in central Wyoming. Why did people construct this monument about 800 years ago? For what was it used? What significance did it have as a <a href="http://campusarch.msu.edu/?p=1292" target="_blank">sacred space</a>?-->
+
+<br>
+
+<img src="http://www.saa.org/Portals/0/SAA/PUBLIC/images/w250x249_THIEF%20OF%20TIME%20cropped.jpg">
+
+<br>
+
+In this lesson, we will focus on the methods that archaeologists use to analyze their data and, eventually, interpret the results of those analyses in order to reconstruct the past. It may help to skim over previous readings, just to refresh yourself with some of the terminology that we have already covered.
+ 
+You should access, read over, and explore the information provided in the links below:
+
+- <a href="http://www.nps.gov/archeology/" target="blank">US National Park Service Archaeology Program</a>
+- <a href="http://www.archaeological.org/" target="_blank">Archaeological Institute of America</a>
+- <a href="http://ethics.aaanet.org/ethics-statement-0-preamble/" target="_blank">American Anthropological Association Ethical Standards</a>
+- <a href="http://www.saa.org/publicftp/PUBLIC/resources/law_ethics.html" target="_blank">Archaeological Laws and Ethics for Professional Archaeologists</a>
+- <a href="http://rpanet.org/?" target="_blank">Register of Professional Archaeologists</a>
+- <a href="http://www.saa.org/publicftp/public/forArchaeologists/outreach_PAis.html" target="_blank">What is Public Archaeology?</a>
+
+
+### Objectives
+
+By the end of this lesson, you should be able to successfully:
+
+- Review methods and theory in archaeology (__cultural ecology__, ethnoarchaeology, experimental archaeology, general systems theory, __processual__ and __postprocessual__ archaeology).
+
+- Understand common archaeological units (time/space), such as component, phase, tradition, etc.
+
+- Understand common models for cultural change (for example, __innovation__ and __diffusion__) and processes by which cultures change.
+
+- Categorize the practice of archaeology today (__public archaeology__, __cultural resources management (CRM)__.
+
+- Describe some of the legal and ethical issues in archaeology (e.g., curation, conservation, looting, stewardship, colonial legacies).
+
+- Understand the educational/experience requirements for professional archaeologists.
+
+-----
+#### Continue
+Continue through the module to access more.

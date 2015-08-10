@@ -1,6 +1,7 @@
 ---
 title: "Lesson 10 Discussion:  Rise and Fall in the Americas"
-author: "ANTH 102-W1---Fall 2014"
+author: "ANTH 102-W1"
+date: "Spring 2015"
 output:
   html_document:
     fig_caption: yes
@@ -9,21 +10,26 @@ output:
 
 We are at the end of our survey of world prehistory. We've now jumped over to the Western Hemisphere in our discussion of the development of some of the better-known civilizations of the ancient world. Of course, we've already mentioned the rich prehistory of humans as they continued to spread throughout the Old World---eventually reaching the Americas by about 15,000 yBP, if not earlier. In this discussion activity, we will be looking at the rise (and fall) of some of our surveyed civilizations of the Americas. Archaeology in the Western Hemisphere provides a rich archaeological record for studying the dynamic patterns of development and decline of human cultures, as city-state polities emerged (some later becoming empires) and fell. The first case-study we consider is the Maya.
 
-As discussed in lecture and supplementary readings, Maya civilization reached their peak around 600 CE. Then, beginning around 800 CE, large ceremonial centers like [Copan](http://www.learner.org/interactives/collapse/mayans.html) and the site of [Tikal](http://ngm.nationalgeographic.com/2007/08/maya-rise-fall/map-interactive) began to decline.
+As discussed in lecture and supplementary readings, Maya civilization reached their peak around 600 CE. Then, beginning around 800 CE, large ceremonial centers like <a href="http://www.learner.org/interactives/collapse/mayans.html" target="_blank">Copan</a> and the site of <a href="http://ngm.nationalgeographic.com/2007/08/maya-rise-fall/map-interactive" target="_blank">Tikal</a> began to decline.
 
-The Aztec civilization offers another example of the [rapid collapse of an empire](http://www.aztec-history.com/fall-of-the-aztec-empire.html), with outside military aggression playing an even larger role. A number of factors contributed to the ease with which Spanish forces, led by [Hernando Cortes](http://www.pbs.org/conquistadors/cortes/cortes_flat.html), conquered the Aztec people.
+The Aztec civilization offers another example of the <a href="http://www.aztec-history.com/fall-of-the-aztec-empire.html" target="_blank">rapid collapse of an empire</a>, with outside military aggression playing an even larger role. A number of factors contributed to the ease with which Spanish forces, led by <a href="http://www.pbs.org/conquistadors/cortes/cortes_flat.html" target="_blank">Hernando Cortes</a>, conquered the Aztec people.
 
-By the time Spanish explorers reached the Maya, their numbers had already dwindled. The Inca civilization, on the other hand, was in the active process of decline at the time of European contact. [Internal strife](http://www.pbs.org/wgbh/nova/ancient/great-inca-rebellion.html) had already begun to weaken the empire. Royal sites, like Machu Picchu were abandoned, lost for centuries.
- 
+By the time Spanish explorers reached the Maya, their numbers had already dwindled. The Inca civilization, on the other hand, was in the active process of decline at the time of European contact. <a href="http://www.pbs.org/wgbh/nova/ancient/great-inca-rebellion.html" target="_blank">Internal strife</a> had already begun to weaken the empire. Royal sites, like Machu Picchu were abandoned, lost for centuries.
+
+<CENTER>
+<iframe width="512" height="376" src="http://video.pbs.org/viralplayer/2216399796" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" seamless></iframe>
+</CENTER> 
 
 ### Instructions
 After going through the lesson content, including textbook readings, slideshow, and other electronic resources, create an initial thread and respond to the following: 
 
-- First, share some original thoughts on what you found most interesting and/or surprising about any of the civilizations covered in this lesson. _Next_, think about the rise and collapse of some of the civilizations we've covered, and comment on __*one*__ of these questions: 
-    + What factors may have contributed to the collapse of the Classic Maya civilization (include some examples of supporting evidence?
+- First, share some original thoughts on what you found most interesting and/or surprising about any of the civilizations covered in this lesson. _Next_, think about the rise and collapse of some of the civilizations we've covered, and address __*one*__ of these questions (provide supporting evidence): 
+    + What factors may have contributed to the collapse of the Classic Maya civilization?
     + What are some similarities/differences in the rise and fall of civilizations like the Maya, Aztec, and Inca?
     
-- _On a separate day than your original post_, return to the discussion forum and submit a response to at least one classmate's original thread post. After that, feel free to comment as you like.
+<center><font size="4"><i>It may be helpful to watch the PBS film "The Rise and Fall of a Civilization" above.</i></font></center>
+    
+- Next, throughout the week, return to the discussion forum and submit a response to at least two classmates' original threads. After that, feel free to comment as you like.
 
 
 ### Evaluation Criteria
@@ -32,9 +38,9 @@ You will be evaluated using the same criteria as other discussion activities:
 
 - Content: There is no required word count, _per se_, but you must adequately address the questions posed and provide a meaningful, well-thought response. Did you answer the discussion question (and reply) with a thoughtful response that includes references to material presented in the lecture, readings, and/or web-readings?
 
-- Grammar/style: Did you use proper grammar and style (spelling, complete sentences€¦) making your post easy to understand?
+- Grammar/style: Did you use proper grammar and style (spelling, complete sentences...) making your post easy to understand?
 
-- Participation: Did you submit the required number of posts. Initial thread and response post must be made on separate days. [I suggest submitting your initial thread by Thursday (at the latest) and your response post one/two days later. You may submit more than one response post.]
+- Participation: Did you submit the required number of posts (3). Initial thread and response posts must be made on *three separate days*. [Students must submit their initial threads by the end-of-day Thursday (at the latest) and your response posts should come over the rest of the week. You may submit more than the minimum required.]
 
 - Follow the general guidelines of discussion etiquette (see Syllabus).
 
@@ -44,9 +50,7 @@ To prepare for this discussion, you should watch the lecture slideshow and, assu
 
 - Access the Discussion Forum, "Rise and Fall in the Americas" and follow the instructions above.
 
-- Remember, you must make your second discussion post on a different date than your original post.
-
 -----
 
 #### Continue
-__Be sure to mark this page as "reviewed."__ Then, go to the next page to access a link to the discussion forum. If the forum does not automatically open in a new window, click "€œClick to Launch."
+__Be sure to mark this page as "reviewed."__ Then, go to the next page to access a link to the discussion forum. If the forum does not automatically open in a new window, click "Click to Launch."

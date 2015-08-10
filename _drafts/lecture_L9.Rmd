@@ -1,6 +1,7 @@
 ---
-title: "Lesson 9 Lecture Info"
-author: "ANTH 102-W1---Fall 2014"
+title: "Lesson 9 Introduction"
+author: "ANTH 102-W1"
+date: "Spring 2015"
 output:
   html_document:
     fig_caption: yes
@@ -12,7 +13,7 @@ This week's lesson falls in a holiday week, so the graded activities are fewer t
 
 
 ### Exploring Asian Prehistory/Early History
-As you'll see, archaeologists are learning more and more about the development and spread of the Harappan culture in the Indus Valley and surrounding area. Theirs is an ancient writing system that has not, yet, been deciphered.
+As you will see, archaeologists are learning more and more about the development and spread of the Harappan culture in the Indus Valley and surrounding area. Theirs is an ancient writing system that has not, yet, been deciphered.
 
 On the other hand, many traditions of modern-day Chinese culture (not their communist political system, of course) have roots in the early, state-level civilizations there. Also, the Khmer culture, which developed into an empire, is just recently becoming better known to archaeologists. In this lesson, we'll be considering cultural developments in these regions.
 
@@ -20,17 +21,31 @@ On the other hand, many traditions of modern-day Chinese culture (not their comm
 Remember, take the time to check out the web-links I provide. Often, they (along with the textbook) clarify highlights that from the lecture slideshow.
 
 - Indus Valley cultures
-    + Tour some of the great prehistoric/historic [civilizations of the Indus Valley](http://www.harappa.com/indus/indus1.html). Marvel at the standardization of Harappan urban centers, like [Harappa](http://www.harappa.com/walk/) and [Mohenjo-Daro](http://www.mohenjodaro.net/index.html). 
+    + Tour some of the great prehistoric/historic <a href="http://www.harappa.com/indus/indus1.html" target="_blank">civilizations of the Indus Valley</a>. Marvel at the standardization of Harappan urban centers, like <a href="http://www.harappa.com/walk/" target="_blank">Harappa</a> and <a href="http://www.mohenjodaro.net/index.html" target="_blank">Mohenjo-Daro</a>. 
  
 - Chinese cultures
-    + Not surprisingly, early increases in social complexity and the emergence of state-level society arose along rivers in [ancient China](http://www.ancientchina.co.uk/menu.html). Certainly, the [river was important](http://www.ancientchina.co.uk/geography/story/sto_set.html) for early peoples there. Though modern-day China is not the same as in the past, Chinese culture shows remarkable continuity over the [last two thousand years](http://www.chaos.umd.edu/history/time_line.html).
+    + Not surprisingly, early increases in social complexity and the emergence of state-level society arose along rivers in <a href="http://www.ancientchina.co.uk/menu.html" target="_blank">ancient China</a>. Certainly, the <a href="http://www.ancientchina.co.uk/geography/story/sto_set.html" target="_blank">river was important</a> for early peoples there. Though modern-day China is not the same as in the past, Chinese culture shows remarkable continuity over the <a href="http://www.chaos.umd.edu/history/time_line.html" target="_blank">last two thousand years</a>.
     
-![Territories of Dynasties in China. Image by Ian Kiu; licensed under CC BY-SA 3.0.](../assets/dynastic_china_territory.gif)
+<CENTER>
+<figure>
+  <img src="http://upload.wikimedia.org/wikipedia/commons/5/54/Territories_of_Dynasties_in_China.gif" width="500">
+  <figcaption>Territories of Dynasties in China. Image by Ian Kiu; licensed under CC BY-SA 3.0.
+  </figcaption>
+</figure>
+</CENTER>
+<br>
 
 - Cambodian cultures
-    + One of the largest archaeological sites in the world is Angkor in present-day Cambodia. These sites represent the remains of great capitals of the Khmer Empire. [Interactively explore](http://ngm.nationalgeographic.com/2009/07/angkor/angkor-animation) the Khmer Empire with National Geographic (and try to keep in mind that this society was flourishing while Europe was wallowing in the "Dark Ages."
+    + One of the largest archaeological sites in the world is Angkor in present-day Cambodia. These sites represent the remains of great capitals of the Khmer Empire. <a href="http://ngm.nationalgeographic.com/2009/07/angkor/angkor-animation" target="_blank">Interactively explore</a> the Khmer Empire with National Geographic (and try to keep in mind that this society was flourishing while Europe was wallowing in the "<a href="http://en.wikipedia.org/wiki/Dark_Ages_(historiography)" target="_blank">Dark Ages</a>."
     
-![Khmer capital of Angor Wat seen from a helicopter. Image by Peter Garnhum; licensed under CC BY-NC 2.0.](../assets/angkor-wat_aerial.jpg)
+<CENTER>
+<figure>
+  <img src="https://farm2.staticflickr.com/1023/799603181_d199a81331_o_d.jpg" width="500">
+  <figcaption>Khmer capital of Angor Wat seen from a helicopter. Image by Peter Garnhum; licensed under CC BY-NC 2.0.
+  </figcaption>
+</figure>
+</CENTER>
+<br>
 
 __If a hyperlink doesn't work with a simple click, right-click and select "Open in a new tab/window."__
 
@@ -43,9 +58,9 @@ Content for this lesson comes primarily from Chapter 12 in the textbook. As usua
 ### What's next?
 - Lesson 9 Discussion:  Exploring Asian (Pre-)History
 
-This is an __optional__ discussion forum that gives you and your classmates an opportunity to share what you felt was most interesting or surprising about the content covered in Lesson 9. More information on this forum is included on the "Discussion Info/Instructions" page.
+This discussion forum gives you and your classmates an opportunity to share what you felt was most interesting or surprising about the content covered in Lesson 9. More information on this forum is included on the "Discussion Info/Instructions" page.
 
-- Lesson 9 Quiz:  This quiz reviews the content covered in this lesson and is a __mandatory__, graded activity.
+- Lesson 9 Quiz:  This quiz reviews the content covered in this lesson.
 
 ---------
 

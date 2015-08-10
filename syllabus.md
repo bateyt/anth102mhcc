@@ -4,6 +4,8 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
+<font size="5" color="red">*Please note: This syllabus was used in the Spring 2015 term. While some information (e.g., my contact info and the textbook) will remain the same for Fall 2015 term, the course structure and assignments will likely vary.*</font>
+
 ## General Course Information
 
 - **Course ID:**  ANTH102, Section W1

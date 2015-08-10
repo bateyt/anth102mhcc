@@ -1,0 +1,59 @@
+---
+title: "Lesson 4 Discussion:  Archaeology Today"
+author: "ANTH 102-W1"
+date: "Spring 2015"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+As mentioned in the lecture slideshow and discussed in the textbook, archaeology today is no longer confined to the halls of academia. Offices like that of Indiana Jones---a fictional representation of a early/mid-20th-century archaeologist---are not part of today's archaeology. In fact, Jones' mantra "It belongs in a museum" isn't necessarily always the case, either. Recall that we've mentioned that not all people have the same perceptions of the past. This leads to differences of opinion in how archaeological resources should be treated. Nonetheless, they certainly wouldn't be stored haphazardly on open shelves, like in Indy's office!
+
+<img src="http://vignette1.wikia.nocookie.net/indianajones/images/8/82/Indys_office.jpg/revision/latest?cb=20110321002330">
+
+
+### Instructions
+To successfully participate in and complete this discussion activity, you will need to do the following:
+
+1. Create an initial thread in which you address the question below.
+    - __In your own words: What benefits and challenges can come to the archaeologist by working with local people and descendant communities?__ In your answer, you should consider what you've learned about public archaeology, the controversy surrounding Kennewick Man, and the article "Digging up Memories." (See Getting Started section below.)
+
+2. Submit a response post to __at least two__ classmates' initial threads. Remember, in framing your response, think about the following:
+    - What was your classmate's main point? Do you agree or disagree, and why?
+    - Did your classmate's comments challenge you to think about things that you may have not considered, or reconsider from a different perspective? How so?
+    - Is there anything you may contribute to your classmate's post?
+
+
+### Evaluation Criteria
+
+You will be evaluated using the same criteria as other discussion activities:
+
+- Content: There is no required word count, _per se_, but you must adequately address the questions posed and provide a meaningful, well-thought response. Did you answer the discussion question (and reply) with a thoughtful response that includes references to material presented in the lecture, readings, and/or web-readings?
+
+- Grammar/style: Did you use proper grammar and style (spelling, complete sentences€¦) making your post easy to understand?
+
+- Participation: Did you submit the required number of posts. Initial thread and response posts must be made on three separate days. [Students must submit their initial threads by the end-of-day Thursday (at the latest) and your response posts should come over the rest of the week. You may submit more than the minimum required.]
+
+- Follow the general guidelines of discussion etiquette (see Syllabus).
+
+
+### Getting Started
+
+1. Before you create that first thread...
+
+  - If you haven't already, look over what the Society for American Archaeology has to say about public archaeology.
+
+  - Check out some of the National Park Service's Archaeology Program's <a href="http://www.nps.gov/archeology/IforA/nationalMap.htm" target="_blank">case studies in public archaeology</a>.
+
+  - Do some background reading on the human remains known as <a href="http://www.burkemuseum.org/kennewickman/" target="_blank">"Kennewick Man," or "The Ancient One"</a>.
+  
+  - Read up on community archaeology in the article "<a href="https://mhcc.blackboard.com/bbcswebdav/courses/ANTH102_EB_W1_SP15/massheder-rigby_2014_digging_memories.pdf" target="_blank">Digging up Memories</a>."
+
+2. Access the Discussion Forum, "Archaeology Today" and follow the instructions above.
+
+
+-----
+
+#### Continue
+__Be sure to mark this page as "reviewed."__ Then, go to the next page to access a link to the discussion forum. If the forum does not automatically open in a new window, click "€œClick to Launch."

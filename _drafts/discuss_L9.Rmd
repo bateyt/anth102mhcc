@@ -1,38 +1,54 @@
 ---
-title: "Lesson 10 Discussion:  Rise and Fall in the Americas"
-author: "ANTH 102-W1---Fall 2014"
+title: "Lesson 9 Introduction"
+author: "ANTH 102-W1"
+date: "Spring 2015"
 output:
   html_document:
     fig_caption: yes
     theme: united
 ---
 
-We are at the end of our survey of world prehistory. We've now jumped over to the Western Hemisphere in our discussion of the development of some of the better-known civilizations of the ancient world. Of course, we've already mentioned the rich prehistory of humans as they continued to spread throughout the Old World---eventually reaching the Americas by about 15,000 yBP, if not earlier. In this discussion activity, we will be looking at the rise (and fall) of some of our surveyed civilizations of the Americas. Archaeology in the Western Hemisphere provides a rich archaeological record for studying the dynamic patterns of development and decline of human cultures, as city-state polities emerged (some later becoming empires) and fell. The first case-study we consider is the Maya.
+In this discussion activity, you will reflect and share what you found most interesting/surprising about the content in Lesson 9.
 
-As discussed in lecture and supplementary readings, Maya civilization reached their peak around 600 CE. Then, beginning around 800 CE, large ceremonial centers like [Copan](http://www.learner.org/interactives/collapse/mayans.html) and the site of [Tikal](http://ngm.nationalgeographic.com/2007/08/maya-rise-fall/map-interactive) began to decline.
-
-The Aztec civilization offers another example of the [rapid collapse of an empire](http://www.aztec-history.com/fall-of-the-aztec-empire.html), with outside military aggression playing an even larger role. A number of factors contributed to the ease with which Spanish forces, led by [Hernando Cortes](http://www.pbs.org/conquistadors/cortes/cortes_flat.html), conquered the Aztec people.
-
-By the time Spanish explorers reached the Maya, their numbers had already dwindled. The Inca civilization, on the other hand, was in the active process of decline at the time of European contact. [Internal strife](http://www.pbs.org/wgbh/nova/ancient/great-inca-rebellion.html) had already begun to weaken the empire. Royal sites, like Machu Picchu were abandoned, lost for centuries.
+<br>
  
+<CENTER>
+<figure>
+  <img src="http://upload.wikimedia.org/wikipedia/commons/6/6e/Indus_seal_impression.jpg">
+  <figcaption>Impression of an Indus Valley seal, showing an "Indus script" string of five characters (British Museum, 2005 photograph); licensed under CC BY-SA 3.0.
+  </figcaption>
+</figure>
+</CENTER>
+
+<br>
 
 ### Instructions
 After going through the lesson content, including textbook readings, slideshow, and other electronic resources, create an initial thread and respond to the following: 
 
 - What did you find most interesting and/or surprising from the Lesson 9 content covering the Harappan, Chinese, and Khmer civilizations of Asia? __Why?__
     
-- _On a separate day than your original post_, return to the discussion forum and submit a response to at least one classmate's original thread post. After that, feel free to comment as you like.
+- Next, throughout the week, return to the discussion forum and submit a response to at least two classmates' original threads. After that, feel free to comment as you like.
 
+<br>
+ 
+<CENTER>
+<figure>
+  <img src="http://upload.wikimedia.org/wikipedia/commons/4/44/1_terracotta_army_2011.JPG" width="500">
+  <figcaption>In the mid-1970's, archaeological excavations discovered the famous <a href="http://en.wikipedia.org/wiki/Terracotta_Army" target="_blank">Terracotta Army</a> buried with China's first emperor, Ying Zheng; licensed under CC BY 3.0.
+  </figcaption>
+</figure>
+</CENTER>
+
+<br>
 
 ### Evaluation Criteria
-
-You will be evaluated using the same criteria as other discussion activities:
+You will be evaluated on the following:
 
 - Content: There is no required word count, _per se_, but you must adequately address the questions posed and provide a meaningful, well-thought response. Did you answer the discussion question (and reply) with a thoughtful response that includes references to material presented in the lecture, readings, and/or web-readings?
 
 - Grammar/style: Did you use proper grammar and style (spelling, complete sentencesÄ¶) making your post easy to understand?
 
-- Participation: Did you submit the required number of posts. Initial thread and response post must be made on separate days. [I suggest submitting your initial thread by Thursday (at the latest) and your response post one/two days later. You may submit more than one response post.]
+- Participation: Did you submit the required number of posts (3). Initial thread and response posts must be made on *three separate days*. [Students must submit their initial threads by the end-of-day Thursday (at the latest) and your response posts should come over the rest of the week. You may submit more than the minimum required.]
 
 - Follow the general guidelines of discussion etiquette (see Syllabus).
 
@@ -40,9 +56,9 @@ You will be evaluated using the same criteria as other discussion activities:
 ### Getting Started
 To prepare for this discussion, you should watch the lecture slideshow and, assuming you have the textbook, skim through the supplemental readings.
 
-- Access the Discussion Forum, "Rise and Fall in the Americas" ù and follow the instructions above.
+- Mark this page as reviewed.
 
-- Remember, you must make your second discussion post on a different date than your original post.
+- Access the Discussion Forum, "Land of the Rising Sun" to begin. __For this activity, you must first submit your intial thread _before_ you can view/respond to other posts.__
 
 -----
 

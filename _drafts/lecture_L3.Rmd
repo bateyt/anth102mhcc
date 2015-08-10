@@ -1,0 +1,56 @@
+---
+title: "Lesson 3 Lecture Info"
+author: "ANTH 102-W1"
+date: "Spring 2015"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+### What to expect
+Activities for this lesson include a writing assignment---an "artifact" classification/description----and a quiz. There is an open discussion forum for Lesson 3, but it is optional. To prepare you for these activities, this lesson includes a slideshow, recommended readings from the textbook, and links to online resources. You should take advantage of all of these resources. Remember, one successful strategy is to do the following:
+
+- Skim the related textbook pages, focusing on main concepts (e.g., sections and items in bold-type).
+- Watch the lecture slideshow. 
+- Read the related textbook pages again. Remember, it helps to know what an unfamiliar words mean, and with foreign concepts, it may not be readily apparent from the context.
+
+
+### Artifact Classification
+
+A tedious, but all important step in archaeological research is artifact classification. Classification of artifacts into categories allows for further analysis, the results of which are the bases for interpretation. The systems for classifying archaeological artifacts (or, features and sites) are called <a href="http://www.archaeologywordsmith.com/lookup.php?terms=typology" target="_blank"><b>typologies</b></a>. Typological systems commonly use physical characteristics (e.g., size and shape), stylistic features, and functional features. These characteristics are also referred to as *attributes*. 
+
+<br>
+
+<img src="http://rla.unc.edu/archaeonc/time/images/large/SERIATE1.gif" width="512">
+
+<br>
+
+A good classification system for a particular artifact type can be extremely useful in <a href="http://en.wikipedia.org/wiki/Seriation_%28archaeology%29" target="_blank"><b>seriation</b></a>, a common *relative* dating method. The image above illustrates the seriation of ceramics (i.e., pottery) recovered from excavations from the <a href="http://rla.unc.edu/archaeonc/time/wood_pied_EM_EarlyEx.htm" target="_blank">Gaston site</a>, North Carolina.
+
+
+### A note on linked web resources
+Remember, take the time to check out the web-links I provide. Often, they (along with the textbook) clarify highlights that from the lecture slideshow.
+
+__If a hyperlink doesn't work with a simple click, right-click and select "Open in a new tab/window."__
+
+### Lecture Slideshow
+To provide more background information and highlight the main concepts, I have provided a slideshow on the following page.
+
+### Readings
+We are concentrating the process of artifact classification, the analysis of archaeological data, and interpreting those results in order to reconstruct the past-one of those main goals of archaeology, remember? The information is primarily in Chapter 1, but also includes some content from Chapter 10 (see Tentative Schedule). Again, it may be useful to look over the terms at the end of each chapter before you read the material.
+
+### What's next?
+- Lesson 3 Assignment: Artifact Classification/Description
+
+- Lesson 3 Quiz
+    + This quiz will review some of the pertinent points from this lesson. If needed, you may use the lecture notes, textbook, or other resources I have provided to answer the questions.
+    
+- Lesson 3 (Open) Discussion: Anything Archaeology
+    + This is an __optional__ discussion forum that gives you and your classmates an opportunity to share what you felt was most interesting or surprising about the content covered in Lesson 3. More information on this forum is included on the "Discussion Info/Instructions" page.
+
+
+---------
+
+#### Continue
+Continue through the module to access the slideshow and assignment links.

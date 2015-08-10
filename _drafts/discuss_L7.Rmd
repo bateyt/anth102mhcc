@@ -1,11 +1,18 @@
 ---
 title: 'Lesson 7 Discussion:  Just Eat It!'
-author: "ANTH 102-W1---Fall 2014"
+author: "ANTH 102-W1"
+date: "Spring 2015"
 output:
   html_document:
     fig_caption: yes
     theme: united
 ---
+
+<br>
+
+<img src="http://fe867b.medialib.glogster.com/media/fa/faafa0c04a5a43dc3de8781b2fd500c6d889def6d245c6c7dd0964b54595cbec/weird-al-yankovic-eat-it-jpg.jpg">
+
+<br>
 
 In this discussion activity, students will ponder what the archaeological evidence suggests about variation in plant/animal domestication and developments in social complexity around the world.
 
@@ -16,7 +23,7 @@ After going through the lesson content, including textbook readings, slideshow, 
     + the particular plants/animals domesticated there?
     + evidence for developments in social complexity there?
     
-- On a separate day than your original post, return to the discussion forum and submit a response to at least one classmate's original thread post. After that, feel free to comment as you like.
+- Throughout the week, return to the discussion forum and submit a response to at least two classmates' original threads. After that, feel free to comment as you like.
 
 ### Evaluation Criteria
 You will be evaluated on the following:
@@ -25,18 +32,17 @@ You will be evaluated on the following:
 
 - Grammar/style: Did you use proper grammar and style (spelling, complete sentences…) making your post easy to understand?
 
-- Participation: Did you submit the required number of posts. Initial thread and response post must be made on separate days. [I suggest submitting your initial thread by Thursday (at the latest) and your response post one/two days later. You may submit more than one response post.]
+- Participation: Did you submit the required number of posts (3). Initial thread and response posts must be made on *three separate days*. [Students must submit their initial threads by the end-of-day Thursday (at the latest) and your response posts should come over the rest of the week. You may submit more than the minimum required.]
 
 - Follow the general guidelines of discussion etiquette (see Syllabus).
 
 ### Getting Started
 To prepare for this discussion, you should watch the lecture slideshow and, assuming you have the textbook, skim through the supplemental readings.
 
-Access the Discussion Forum, "Just Eat It!,” and follow the instructions above. __For this activity, you must first submit your intial thread _before_ you can view/respond to other posts.__
+Access the Discussion Forum, "Just Eat It!", and follow the instructions above. __For this activity, you must first submit your intial thread _before_ you can view/respond to other posts.__
 
-Remember, you must make your second discussion post on a different date than your original post.
+
 
 -----
-
 #### Continue
-__Be sure to mark this page as “reviewed.”__ Then, go to the next page to access a link to the discussion forum. If the forum does not automatically open in a new window, click “Click to Launch.”
+__Be sure to mark this page as "reviewed."__ Then, go to the next page to access a link to the discussion forum. If the forum does not automatically open in a new window, click "��Click to Launch."

@@ -1,6 +1,7 @@
 ---
 title: "Lesson 7 Lecture Info"
-author: "ANTH 102-W1---Fall 2014"
+author: "ANTH 102-W1"
+date: "Spring 2015"
 output:
   html_document:
     fig_caption: yes
@@ -10,8 +11,18 @@ output:
 ### What to expect
 Activities for this lesson include a discussion and quiz. In addition to going over the lecture slideshow, you may be interested (and, it would be helpful) in checking out some other resources that offer more details on early plant and animal domestication and developments in social complexity around the world.
 
+-------
+
+Some extra notes on plant/animal domestication in the New World:
+
+- <a href="http://www.tulane.edu/~kidder/Anth%20201/Lecture%20outlines/Anth%20201%20lect%2030%20outline.html" target="blank">Bulleted highlights</a> on New World domesticates
+
+- Were the earliest domesticated plants in the New World <a href="http://www.pnas.org/content/102/51/18315.full" target="_blank">have an Asian orign</a>?
+
+-------
+
 ### Give the New World some love
-In the past, although not so much these days, North American archaeology has largely played second-fiddle to archaeology in other parts of the world, especially the [Old World](http://en.wikipedia.org/wiki/Old_World). There are a number of reasons for this trajectory of archaeological research. For one, until relatively recently, the Western Hemisphere was largely unknown to Europeans. And, recall that early archaeologists (well, _antiquarians_) were, generally, European. Another factor is that, at least in eastern North America, prehistoric and [protohistoric](http://en.wikipedia.org/wiki/Protohistory) societies did not have access to the same types of raw building materials used in other regions, like stone in Mesoamerica or adobe in the American Southwest. Thus, prior to U.S. westward expansion, explorers and early archaeologists had little permanent architecture to observe. 
+In the past, although not so much these days, North American archaeology has largely played second-fiddle to archaeology in other parts of the world, especially the <a href="http://en.wikipedia.org/wiki/Old_World" target="_blank">Old World</a>. There are a number of reasons for this trajectory of archaeological research. For one, until relatively recently, the Western Hemisphere was largely unknown to Europeans. And, recall that early archaeologists (well, _antiquarians_) were, generally, European. Another factor is that, at least in eastern North America, prehistoric and <a href="http://en.wikipedia.org/wiki/Protohistory" target="_blank">protohistoric</a> societies did not have access to the same types of raw building materials used in other regions, like stone in Mesoamerica or adobe in the American Southwest. Thus, prior to U.S. westward expansion, explorers and early archaeologists had little permanent architecture to observe. 
 
 <br>
 
@@ -34,7 +45,7 @@ Mound centers like Cahokia (Illinois), Moundville (Alabama), and others provided
 <br>
 
 #### A note on linked web resources
-Remember, take the time to check out the web-links I provide. Often, they (along with the textbook) clarify highlights that you’ll see in the lecture slideshow.
+Remember, take the time to check out the web-links I provide. Often, they (along with the textbook) clarify highlights that you see in the lecture slideshow.
 
 __If a hyperlink doesn't work with a simple click, right-click and select "Open in a new tab/window."__
 

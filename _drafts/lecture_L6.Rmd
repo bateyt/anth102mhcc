@@ -1,0 +1,72 @@
+---
+title: "Lesson 6 Lecture Info"
+author: "ANTH 102-W1"
+date: "Spring 2015"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+### What to expect
+
+Activities for this lesson include a discussion and quiz. In addition to going over the lecture slideshow, you may be interested (and, it would be helpful) in checking out some other resources that offer general and specific information regarding the complex process of early plant and animal domestication in the Near East.
+
+
+### What's the big deal?
+
+Throughout most of human history, individual households and local communities practiced a hunting-gathering (also called "hunting-foraging") __subsistence strategy__. In other words, they survived by a combination of hunting large and small game animals, fishing (if near riverine or marine environments), and gathering/foraging for wild plant foods.
+
+Around 10,000 years ago (perhaps even earlier), though, some populations in the <a href="http://en.wikipedia.org/wiki/History_of_the_ancient_Levant" target="_blank">Levant</a>---the region along the eastern Mediterranean in present-day countries like Turkey, Syria, Israel, and Jordan---and Zagros Mountains (in present-day Iran) began the transition toward a new subsistence strategy: *food production* (i.e., agriculture and animal husbandry). Based on a large body of evidence, this larger region, often referred to as the "<a href="http://en.wikipedia.org/wiki/Fertile_Crescent" target="_blank">Fertile Crescent</a>," is thought to be where people first began (even unconsciously) the process of domesticating wild plant and animal species. Populations in other parts of the world (e.g., Africa, China, North and South America...) also began independently cultivating domestic strains of indigenous, previously wild plant species.
+
+<br>
+
+<CENTER><figure>
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Map_of_fertile_crescent.svg/640px-Map_of_fertile_crescent.svg.png" width="350">
+<figcaption>General, maximum boundaries of the Fertile Crescent</figcaption>
+</figure></CENTER>
+
+<br>
+
+Anthropologists/archaeologists in the early-/mid-20th century referred to this phenomenon the "<a href="http://en.wikipedia.org/wiki/Neolithic_Revolution" target="_blank">Neolithic Revolution</a>." Today, we have a much more nuanced perspective of this complex process, such that it is now often referred to the Neolithic "*transition*." Even still, the impact that domestication of plants and animals has had on human populations cannot be denied.
+
+Archaeological data and historical evidence suggest that the rate of <a href="http://www.globalchange.umich.edu/globalchange2/current/lectures/human_pop/human_pop.html#Past" target="_blank">human population growth</a> increased substantially (even small gains are meaningful when compared to zero or near-zero population growth) since the adoption of agriculture. Today, as the world's population tops 7 billion (!), the ability to provide food for this ever-growing population is of prime importance.
+
+<br>
+
+<CENTER><figure>
+<img src="http://www.globalchange.umich.edu/globalchange2/current/lectures/human_pop/worldpop.jpg">
+<figcaption>General estimate of worldwide human population growth over time</figcaption>
+</figure></CENTER>
+
+<br>
+
+In this lesson, we look at the evidence for the origins of agriculture, and our current interpretations of how and why humans began to produce, rather than just hunt/gather, their food. Also, we will consider the relationship between plant/animal domestication and changes in other social phenomena (settlement patterns, mortuary behavior, social complexity and inequality...) observed in the archaeological record.
+
+
+### A note on linked web resources
+Remember, take the time to check out the web-links I provide. Often, they (along with the textbook) clarify highlights that from the lecture slideshow.
+
+__If a hyperlink doesn't work with a simple click, right-click and select "Open in a new tab/window."__
+
+
+### Lecture Slideshow
+To provide more background information and highlight the main concepts, I have provided a slideshow on the following page.
+
+
+### Readings
+The content for this week's lesson can be found primarily in Chapter 7 of the textbook. Again, it may be useful to look over the terms at the end of each chapter before you read the material.
+
+
+### What's next?
+
+- Lesson 6 Discussion:  Agricultural Origins (Open Forum)
+    + This discussion forum gives you and your classmates an opportunity to explore the the impact of plant/animal domestication on the human species.
+
+- Lesson 6 Quiz:  This quiz reviews the content covered in this lesson.
+
+
+---------
+
+#### Continue
+Continue through the module to access the slideshow and assignment links.

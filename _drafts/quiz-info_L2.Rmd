@@ -1,0 +1,36 @@
+---
+title: "Quiz Info"
+author: "ANTH 102-W1---Fall 2014"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+### What content is covered?
+This quiz reviews the terms and concepts introduced in Lesson 2, related to goals and process of archaeological research and some of the technical aspects of archaeology (i.e., archaeological *methods*). For example...
+
+- What are the basic steps involved in archaeological research?
+
+- Do archaeologist just go out and start digging holes in the ground? If not, then what do they do?
+
+- How do archaeologists place what they recover (i.e., the archaeological record) in context, and why is that important?
+
+- Is there one way to do archaeology, or do different questions/conditions require different methods?
+
+- What factors affect preservation of the archaeological record?
+
+- What ethical guidelines should archaeologists follow?
+
+
+### Quiz Environment
+This quiz is not proctored, and there is no time limit. You may use the lecture slideshows, textbook, and any other online resources provided to help you answer the questions. __This quiz may only be taken once.__
+
+### Availability
+The Lesson 2 Quiz is available Friday through the end of the day, Monday.
+
+----
+
+#### Continue
+
+Go to the next page to access the Lesson 2 Quiz link.

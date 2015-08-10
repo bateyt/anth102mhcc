@@ -1,6 +1,7 @@
 ---
 title: "Lesson 8 Lecture Info"
-author: "ANTH 102-W1---Fall 2014"
+author: "ANTH 102-W1"
+date: "Spring 2015"
 output:
   html_document:
     fig_caption: yes
@@ -8,22 +9,41 @@ output:
 ---
 
 ### What to expect
-Activities for this lesson include a discussion and quiz. In addition to going over the lecture slideshow, you may be interested (and, it would be helpful) in checking out some other resources on the archaeology of Mesopotamia and Egypt (see below).
+Activities for this lesson include a discussion and quiz. In addition to going over the lecture slideshow, please look over the some of the other provided resources (below) on the archaeology of Mesopotamia, Egypt, and the Aegean.
 
 
-### Walk like an Egyptian
+### Walk Like an Egyptian
 When I ask students what they think of when they think of archaeology (remember to our "Introductions" discussion), they often mention something related to ~~ancient~~ premodern Egypt (e.g., King Tut, pyramids, etc.). Egyptian archaeology is a classic case study in imperial archaeology. In the 19th and early-20th centuries, countless numbers of Egypt's cultural treasures were taken, without consent, and continue to be displayed in museums around the world. This brings us back to the question, "who owns the past?". I hope this is something you continue to think of as we make our way through the last few lessons.
 
-In this lesson we'll be looking at the earliest-known development of state-level organization, which are found in Mesopotamia and Egypt. On a side note (and less serious note), the Predynastic site of [Hierakonpolis](http://www.hierakonpolis-online.org/)---which is where the data for my doctoral dissertation come from and is also mentioned in the text---is also mentioned as one of the [earliest-known instances of a zombie outbreak](http://archive.archaeology.org/online/features/hierakonpolis/zombies.html).  :-)
+<br>
 
+<CENTER>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Cv6tuzHUuuk?rel=0" frameborder="0" allowfullscreen></iframe>
+</CENTER>
 
 <br>
 
-![Narmer Palette, recovered from Hierakonpolis, Upper Egypt](../assets/narmer_palette.png)
+In this lesson we will be looking at the earliest-known development of state-level organization, which are found in Mesopotamia and Egypt. On a side note (and less serious note), the Predynastic site of <a href="http://www.hierakonpolis-online.org/" target="_blank">Hierakonpolis</a>---mentioned in the text and, also, which is the archaeological site I studied for my dissertation---may be one of the <a href="http://archive.archaeology.org/online/features/hierakonpolis/zombies.html" target="_blank">earliest-known instances of a zombie outbreak</a>. ;-)
 
 <br>
 
-![Was Narmer the real ["Scorpion King"](http://en.wikipedia.org/wiki/King_Scorpion)?](../assets/rock_scorpion.jpg)
+<CENTER>
+<figure>
+  <img src="http://upload.wikimedia.org/wikipedia/commons/b/be/Narmer_Palette.jpg" width="400">
+  <figcaption>The Narmer Palette, recovered from the Predynastic site of Hierakonpolis
+  </figcaption>
+</figure>
+</CENTER>
+
+<br>
+
+<CENTER>
+<figure>
+  <img src="http://static.comicvine.com/uploads/original/7/74629/1401391-dwayne_johnson.jpg">
+  <figcaption>Was Narmer the real <a href="http://en.wikipedia.org/wiki/King_Scorpion" target="_blank">Scorpion King</a>?
+  </figcaption>
+</figure>
+</CENTER>
 
 <br>
 
@@ -55,7 +75,7 @@ Content for this lesson comes primarily from Chapter 11 in the textbook. As usua
 ### What's next?
 - Lesson 8 Discussion:  I'm in a City-State of Mind
 
-This discussion forum gives you and your classmates an opportunity to explore contrasts in the development of state-level organization in Mesopotamia and Egypt.
+This discussion forum gives you and your classmates an opportunity to explore contrasts in the development of state-level organization in Mesopotamia, Egypt, and the Aegean.
 
 - Lesson 8 Quiz:  This quiz reviews the content covered in this lesson.
 

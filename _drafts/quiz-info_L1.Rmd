@@ -1,0 +1,32 @@
+---
+title: "Quiz Info"
+author: "ANTH 102-W1---Fall 2014"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+### What content is covered?
+This quiz reviews the terms and concepts introduced in Lesson 1, primarily related to archaeology as a subfield of anthropology. For example...
+
+- What are these fields of study?
+
+- What questions do they attempt to answer?
+
+- How do they go about doing so?
+
+- How did the discipline develop?
+
+
+### Quiz Environment
+This quiz is not proctored, and there is no time limit. You may use the lecture slideshow, textbook, and any other online resources provided to help you answer the questions. __This quiz may only be taken once.__
+
+### Availability
+The Lesson 1 Quiz is available Friday through the end of the day, Monday.
+
+----
+
+#### Continue
+
+Go to the next page to access the Lesson 1 Quiz link.

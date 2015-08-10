@@ -1,0 +1,50 @@
+---
+title: "Lesson 4 Lecture Info"
+author: "ANTH 102-W1"
+date: "Spring 2015"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+### What to expect
+Activities for this lesson include the following:
+
+- Discussion forum
+
+- Lesson quiz
+
+- __*Midterm Exam*__
+
+To prepare you for these activities, this lesson includes a slideshow, recommended readings from the textbook, and links to online resources.
+
+Some of what you encounter in this lesson will be review, as we've been hovering around in the first two chapters of the textbook. Before we launch into our survey of world prehistory in the next lesson, we're going to bring what we've learned so far together and firm up our grasp on archaeology today, as opposed to 150 (or even 50) years ago. The picture below shows some excavations from a community archaeology project at the cliffs at Low Hauxley, Northumberland (UK). Archaeological remains at the site date back to at least the Mesolithic.
+
+<img src="http://s0.geograph.org.uk/geophotos/03/58/94/3589405_414ec64e.jpg">
+
+
+### A note on linked web resources
+Remember, take the time to check out the web-links I provide. Often, they (along with the textbook) clarify highlights that from the lecture slideshow.
+
+__If a hyperlink doesn't work with a simple click, right-click and select "Open in a new tab/window."__
+
+### Lecture Slideshow
+To provide more background information and highlight the main concepts, I have provided a slideshow on the following page.
+
+### Readings
+We are reviewing archaeology today---goals, theoretical approaches, and challenges in the modern world. While you may want to review Chapter 1, concentrate on Chapter 2 in the textbook (see Tentative Schedule for pages). Again, it may be useful to look over the terms at the end of each chapter before you read the material.
+
+### What's next?
+
+- Lesson 4 Discussion: Archaeology Today
+
+- Lesson 4 Quiz: This quiz will review some of the pertinent points from this first lesson. If needed, you may use the lecture notes, textbook, or other resources I've provided to answer the questions.
+
+- Midterm Exam:  This exam covers material in Lessons 1--4. It will be availalbe Thursday through Sunday.
+
+
+---------
+
+#### Continue
+Continue through the module to access the slideshow and assignment links.

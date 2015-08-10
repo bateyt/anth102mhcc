@@ -1,0 +1,50 @@
+---
+title: "Lesson 5 Introduction"
+author: "ANTH 102-W1"
+date: "Spring 2015"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+So, at this point in the class, you should have some understanding of now you know what archaeologists do and how they go about doing it. In the second part of the course, broadly labeled as "World Prehistory," we look at the current, consensus understanding the development of humanity---from its earliest beginnings (i.e., hominin origins and the earliest *Homo sapiens*) to the emergence of agriculture (or not) to the appearance of state- and empire-level socio-political organization in select regions of the world. Since we will concentrate on archaeological evidence, do not be surprised to frequently reference concepts learned in the first section (Lessons 1--4)---archaeological method and theory.  
+
+
+## Humanity's Deep Past
+
+Before we can discuss human prehistory, we need to understand something about how archaeologists (as anthropologists) understand our origins. So, in this lesson, we start with a brief overview of our place in nature as primates. The idea that a Bela Lugosi-style ape-man existed in the past is ridiculous and does not capture the complex evolutionary history of our species or those histories of other, nonhuman primates.
+
+<!--Below, check out an aerial view of the <a href="http://www.nlm.nih.gov/nativevoices/exhibition/healing-ways/medicine-ways/medicine-wheel.html" target="_blank">Medicine Wheel</a>, an archaeological site with astronomical and biocultural significance, located within Bighorn National Forest in central Wyoming. Why did people construct this monument about 800 years ago? For what was it used? What significance did it have as a <a href="http://campusarch.msu.edu/?p=1292" target="_blank">sacred space</a>?-->
+
+<br>
+
+<figure>
+<img src="http://upload.wikimedia.org/wikipedia/commons/f/fa/Louise_Currie-B%C3%A9la_Lugosi_in_The_Ape_Man.jpg">
+<figcaption>Louise Currie (left) and Bela Lugosi in the 1943 movie <i>The Ape Man</i></figcaption>
+</figure>
+
+<br>
+
+The first part of our section on world prehistory is meant to give students an appreciation of the deep evolutionary history of our species, *Homo sapiens*. It's this deep history that has produced the incredible variation (both biological and cultural) observed in human populations in the past and present. Here, we are building a foundation for our survey of later developments throughout human prehistory.
+
+Lesson 5 covers a lot of information. If this were an introductory course in biological anthropology, we may normally spend a few weeks covering this material. For the purposes of this class, though, the material presented in this lesson is meant to give you a whirl-wind trip through the earliest evidence for the origins of our own evolutionary history. In other words, we'll be covering about 6 million years of prehistory during this lesson.
+
+The material presented here will give you a background for following lessons that explore the earliest use of agriculture---one of the major innovations of humanity---and our survey of complex societies that developed during prehistory in different parts of the world.
+
+
+### Objectives
+
+By the end of this lesson, you should be able to accomplish the following: 
+
+- Describe and evaluate the evidence (genetic, fossil...) for the origins of hominins; understand current interpretations of early hominin (or <a href="http://www.smithsonianmag.com/science-nature/whats-in-a-name-hominid-versus-hominin-216054/?no-ist" target="_blank">hominid</a>?) lifestyle, including the evidence for the origins of tool use.
+
+- Compare models of the evolution of Neanderthals and early modern humans, and evaluate interpretation of their lifestyles and culture based on archaeological evidence.
+
+- Describe Upper Paleolithic lifestyles and interpretations of early art.
+
+- Describe the evidence and current interpretations of the peopling of Australia and the Americas.
+
+-----
+#### Continue
+Continue through the module to access more.
