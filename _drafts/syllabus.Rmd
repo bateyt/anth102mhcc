@@ -1,7 +1,7 @@
 ---
 title: "ANTH 102 Syllabus"
 author: "Mt. Hood Community College"
-date: "Spring 2015"
+date: "Winter 2016"
 output:
   html_document:
     theme: united
@@ -12,7 +12,7 @@ output:
 - **Course ID:**  ANTH102, Section W1
 - **Course Title:** Introduction to Archaeology and World Prehistory
 - **Course Location:** Online (Blackboard)
-- **Credits:** 3
+- **Credits:** 4
 - **Pre-requisites:** RD90 and WR90
 
 
@@ -23,16 +23,20 @@ output:
 - **MHCC voicemail:** 503-491-6245 (ext. 3441)
 - **MHCC Office Hours:** None (virtual office only)
 
-The best way to get in touch with me is through MHCC email. You can send me messages through Blackboard's "Mailbox" system, as well, but in my experience, this tool is clunky. I typically check email at least once a day and check my messages each time I log in to the course. Unless circumstances prevent me from doing so, I will respond to messages within 48 hours, typically within 24.
+The best way to get in touch with me is through MHCC email. You can send me messages through Blackboard's "Mailbox" system, as well, but in my experience, this tool is clunky. I typically check email at least once a day and check my messages each time I log in to Blackboard. Unless circumstances prevent me from doing so, I will respond to messages within 48 hours, typically within 24.
 
 
 ## Required Materials
  
-- **Textbook:**  Chazan, M. 2014. _World history and archaeology: pathways through time, 3rd edition_. New Jersey: Prentice Hall (Pearson Education, Inc.).
- 
-I strongly encourage you to obtain a copy of the textbook, which is available at the [MHCC Bookstore](http://www.bookstore.mhcc.cc.or.us/buy_main.asp?). A cost-effective alternative is to access the textbook in digital format. The MHCC Bookstore [provides information](http://www.bookstore.mhcc.cc.or.us/about_jumpbooks.asp?)---FAQ's, recommended computer requirements, etc.---on accessing textbooks online or downloading them for use offline. If this option appeals to you, visit [CourseSmart](http://www.coursesmart.com/IR/3058874/9780205953400?__hdv=6.8). 
+In order to keep students' costs down, I am not requiring a textbook for this course. If you would like to obtain a copy of an introductory archaeology/world prehistory textbook (for your own reference), there are many to choose from, and they can be found through any number of retailers (e.g., <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=archaeology+world+prehistory" target="_blank">amazon.com</a>, <a href="http://www.chegg.com/search/archaeology%20world%20prehistory/federated?trackid=53a516b4&strackid=2cde90e3&event=enter_submit#p=1" target="_blank">chegg.com</a>, <a href="http://www.textbooks.com/Search.php?TYP=SBJ&dHTxt=archaeology+world+prehistory&mHTxt=&CSID=A2UTJ2OQ3KJWDQD2MUQDM2SOB&PART=PRINT&TXT=archaeology+world+prehistory" target="_blank">textbooks.com</a>). In previous terms of this course, I've used the following books:
 
-The textbook provides a general structure for course content, serves as a supplement, with more-detailed information, to presentation slideshows, and a reference throughout the course. Additional materials are available through the publisher, but these are not required.
+- Chazan, M. 2014. _World history and archaeology: pathways through time, 3rd edition_. New Jersey: Prentice Hall (Pearson Education, Inc.).
+
+- Fagan, B. 2011. _Ancient lives: an introduction to archaeology and prehistory, 5th edition_. New York: Routledge.
+ 
+A cost-effective alternative to printed versions is obtaining textbooks in digital format. The MHCC Bookstore [provides information](http://www.bookstore.mhcc.cc.or.us/about_jumpbooks.asp?)---FAQ's, recommended computer requirements, etc.---on accessing textbooks online or downloading them for use offline.
+
+The content of this course, while not dependent on a textbook, does follow a similar order and presents much of the same information available in typical introductory archaeology/prehistory texts. 
 
 
 ## Attendance/Participation
@@ -56,15 +60,15 @@ Begin looking at new lesson content | Continue looking at content; submit first 
 
 ## Communication Guidelines
  
-I will make all-class communications through Blackboard's Announcements tool, accessible in the left-side menu and, also, from the Dashboard.
+I will make "all-class" communications through Blackboard's Announcements tool, accessible in the left-side menu and, also, from the Dashboard.
 
 For students:
 
-- If you have a _general_ question about the class (e.g., content, technology issues...), post a message in the SOS board. If you are unsure about something or having some technical issue, there's a chance are others are, too.  The SOS discussion board allows everyone to see questions and answers.
+- If you have a _general_ question about the class (e.g., content, technology issues...), create a discussion thread in the SOS discussion forum. If you are unsure about something or having some technical issue, there is a good chance that others are, too.  The SOS discussion forum allows everyone to see questions and answers.
 
-- If you have a question about your assignment (e.g., grade, feedback), please contact me directly via email or Blackboard's message system.
+- If you have a question _specifically_ about _your_ assignment (e.g., grade, feedback), please contact me directly via email or Blackboard's message system.
 
-- Even though we live in a text-message (or Tweet-) world, when it comes to spelling/grammar, please keep all discussion posts and other messages (semi-)formal. Limit the use of abbreviations. In other words, write as if we were speaking in a face-to-face setting.
+- Even though we live in a text-message (or Tweet-) world, when it comes to spelling/grammar, please keep all discussion posts and other messages (semi-)formal. __Please limit the use of abbreviations. In other words, write as if we were speaking in a face-to-face setting.__
 
 - Be to the point, and please keep all discussion posts relevant to the forum subject. Most of all, please keep __ALL__ posts polite and respectful. Check these [general guidelines for etiquette](http://online.uwc.edu/technology/etiquette) in an online learning environment. In advance, thank you.
 
@@ -77,7 +81,7 @@ Since this is an introductory course, the material has more breadth than depth. 
  
 > What are some examples of natural and cultural transformation processes that affect archaeological sites? How could any one or more of these bias archaeological interpretations?
  
-Before you can comment on this question, you need to know what a _transformation process_ is, as it relates to archaeology. Thus, your performance in the Discussions assumes that you keep current with the readings and other course material.
+Before you can comment on this question, you need to know what a _transformation process_ is, as it relates to archaeology. Thus, your performance in the discussions assumes that you keep current with the readings and other course material.
  
 ### Discussion Forum Requirements
 Participation is essential in an online learning environment. This applies especially to discussion forums, which require __regular participation over the course of each week__. Discussion forums have the following general participation requirements and weekly deadlines:
@@ -92,7 +96,7 @@ Consistent participation in discussion activities will help determine your learn
 
 ## Grades
  
-Letter grades are based on a standard, 10-point scale:  100-90% = A, 89-80% = B, 79-70% = C, 69-60% = D, and below 60% = F). All graded activities (lesson activities, quizzes, discussions, etc.) are graded with a point-to-percent system (i.e., percent grade = points earned/points possible). Your final grade, though, is determined by a __weighted average__ (see grading table below) of the different types of activities. For example, your average for discussion assignments counts for 30% of the final grade, so it is essential that you participate in all discussion activities.
+Letter grades are based on MHCC's, 10-point scale (as they relate to one's grade point average, or GPA):  100-90% = A, 89-80% = B, 79-70% = C, 69-60% = D, and below 60% = F). All graded activities (lesson activities, quizzes, discussions, etc.) are graded with a point-to-percent system (i.e., percent grade = points earned/points possible). Your final grade, though, is determined by a __weighted average__ (see grading table below) of the different types of activities. For example, your average for discussion assignments counts for 30% of the final grade, so it is essential that you participate in all discussion activities.
 
 ### Grading Table
 
@@ -117,7 +121,7 @@ Late-work is accepted, but there are caveats...
  
 ## Resources for Students
  
-Since you pay for it, take advantage of the MHCC's resources. Many great resources to help students succeed are available at the [MHCC Learning Success Center](http://www.mhcc.edu/lsc/), including resources for the following:
+Since you pay for it, take advantage of the MHCC's resources. Many great resources to help students succeed are available at the <a href="http://www.mhcc.edu/lsc/" target="_blank">MHCC Learning Success Center</a>, including resources for the following:
 
 - [Computer help](http://www.mhcc.edu/StudentServices.aspx?id=404)
 
@@ -130,4 +134,4 @@ Finding information is essential for research. The [MHCC Library](http://www.mhc
  
 ## Additional Information
  
-The [MHCC Syllabus Addendum](http://home.mhcc.edu/office_of_instruction/pdf%20forms/syllabus_addendum_Gresham_Bruning.pdf) contains additional information on Disability Services, Academic Integrity, and other important stuff.
+The <a href="http://home.mhcc.edu/office_of_instruction/pdf%20forms/syllabus_addendum_Gresham_Bruning.pdf" target="_blank">MHCC Syllabus Addendum</a> contains additional information on Disability Services, Academic Integrity, and other important stuff.
