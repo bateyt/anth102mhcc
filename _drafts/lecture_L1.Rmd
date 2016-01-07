@@ -1,0 +1,49 @@
+---
+title: "Lesson 1 Lecture Info"
+author: "ANTH 102-W1"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+### What to expect
+Activities for this lesson include participation in a discussion forum and a quiz. To prepare you for these activities, this lesson includes a slideshow and viewing of a few websites and videos. Students should take advantage of all of these resources. 
+
+In the past, students have suggested that they benefited from skimming over online readings and watching the supplemental media (videos, audio, etc.). All these resources supplement the slides and anything I provide directly. Remember, it helps to know what unfamiliar words mean, and with foreign concepts, it may not be readily apparent from the context.
+
+Before tackling the discussion activity and quiz, you will want to do the following:
+
+- Read over content on provided websites;
+- Watch/listen to any video/audio content; and
+- Watch the lecture slideshow
+
+<br>
+
+<CENTER>
+<figure>
+  <img src="https://gypsygypsy.files.wordpress.com/2012/07/484455_415446071830096_29348258_n.jpg">
+  <figcaption>An archaeology joke:  The <a href="https://en.wikipedia.org/wiki/Hittites" target="_blank">Hittites</a></figcaption>
+</figure>
+</CENTER>
+<br>
+
+### A note on linked web resources
+Remember, take the time to check out the web-links I provide. Often, they clarify highlights from the lecture slideshow. __If a hyperlink doesn't work with a simple click, right-click and select "Open in a new tab/window."__
+
+### Lecture Slideshow
+To provide more background information and highlight the main concepts, I have provided a slideshow on the following page.
+
+### Readings
+Relevant readings for this lesson include the lecture slideshow and supplementary content (websites, video). Don't feel that you need to completely understand all of the content now. We will be covering this material for a few more lessons. When you come across unfamiliar terms, use <a href="https://www.archaeological.org/education/glossary" target="_blank">this online glossary for archaeology</a>.
+
+### What's next?
+- Lesson 1 Discussion: Archaeologists Don't Dig Dinosaurs!
+
+- Lesson 1 Quiz:  This quiz will review some of the pertinent points from this first lesson. If needed, you may use the lecture notes and any other resources I have provided to answer the questions.
+
+
+---------
+
+#### Continue
+Continue through the module to access the slideshow and assignment links.

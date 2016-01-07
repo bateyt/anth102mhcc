@@ -1,6 +1,6 @@
 ---
 title: "Quiz Info"
-author: "ANTH 102-W1---Fall 2014"
+author: "ANTH 102-W1"
 output:
   html_document:
     fig_caption: yes
@@ -20,7 +20,7 @@ This quiz reviews the terms and concepts introduced in Lesson 1, primarily relat
 
 
 ### Quiz Environment
-This quiz is not proctored, and there is no time limit. You may use the lecture slideshow, textbook, and any other online resources provided to help you answer the questions. __This quiz may only be taken once.__
+This quiz is not proctored, and there is no time limit. You may use the lecture slideshow and any other supplemental resources provided to help you answer the questions. __This quiz may only be taken once.__
 
 ### Availability
 The Lesson 1 Quiz is available Friday through the end of the day, Monday.
