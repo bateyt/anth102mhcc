@@ -1,0 +1,61 @@
+---
+title: "Lesson 2 Introduction"
+author: "ANTH 102-W1"
+date: ""
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+Now that we have covered some basic information regarding what archaeology is and how the discipline has developed over the years, we are ready to consider the ways archaeologists actually go about doing archaeology---the *how* of archaeology. In this lesson, we explore theoretical approaches to archaeological research, types of archaeological data, and methods of data collection.
+
+> Remember, in scientific inquiry, we try to develop models that best explain the facts:  the data, or observations we make.
+
+<CENTER>
+<figure>
+  <img src="https://lh3.googleusercontent.com/kBdeaeBBLiSZo3GBlT3a4vqcwB-fYz8AEP3ylHFD2ttTsTu2yMtXo6MOhQ391MNDflGK9LPlEsSMJ17QgTLED-FaOSjUyrZi6NNbQX3ZFNcLA_DTbVt3IzTw6d4_5btV8yrxxGVmj1yzK7G9vhumrWuPJiiZk0LYT9rF0BeuQgfwzgyb_FGKU7AAsz6D1sIAWaFhlAhc2OOxDUdV5t-xSXR4CqKGAF3DZobEeSDjehWKgaXdq-Q5GbaRbfqodtphBatHdvoUrpD-DbpTWgFelvFZsdw1LUqE_ukF3sPSTW3Z1JmV6LKBHf8MtYyaoWunugUQ5Eqqa0y8cyc3kivJ6mGAOt-uvTJd6PRAFo9hA0OCo41n3s3k8L0KjKaD8HbDlUkI_VXj0kOPFuK2NdzECNq0bYN51rC07O3TYLq61h0xgUY4DBk27c3G_pa2MYseX8HBoOLsznRosCY15Mo1Ux3pN4HV835ROxhEKPkGf_kctsnr_qVWic1DSTaE8Ez-OBts00x_id8SsS-5Ua2ATANQ2hoBeBONB4sDWUiB2HzF3ZBeMVkvqlJQeyejcRYG7kje=w788-h589-no" width="700">
+  <figcaption>Historical archaeology:  <a href="http://treespot.net/Cemeteries/LincolnCountyCrabOrchardKY/UnivOfKentucky.htm" target="_blank">Excavation for preservation at Vardaman Cemetery</a>, Lincoln County, Kentucky.</figcaption>
+</figure>
+</CENTER>
+
+<br>
+
+
+For this lesson, and throughout the term, use the links below for reference on specific methods in archaeology.
+ 
+ - Chronology terminology:  <a href="http://www.sciencecourseware.org/VirtualDating/files/RC_3.html" target="_blank">BC, AD, BCE, CE...?</a>
+ - The basic <a href="http://archserve.id.ucsb.edu/courses/anth/fagan/anth3/Courseware/Chronology/08_Radiocarbon_Dating.html" target="_blank">science of radiocarbon (C<sup>14</sup>) dating</a>
+ - Accuracy of archaeological dating:  <a href="http://www.pbs.org/wgbh/nova/vikings/treering.html" target="_blank">Dendrochronology</a> with Viking ships
+ - <a href="http://www.interactivedigs.com/" target="_blank">Interactive Digs</a>:  Check out some current and past archaeological projects sponsored, in part, by the Archaeological Institute of America.
+ - <a href="http://www.nps.gov/history/laws.htm" target="_blank">The law</a> of protecting and preserving archaeological and historical resources
+
+<br>
+ 
+ Accordingly, keep the following questions in the back of your mind.
+ 
+- What are common <a href="http://www.tiwanakuarcheo.net/curso_arqpreh/rec/3/BAK/lizee_sampling/04-Anth292-2004.pdf" target="_blank">archaeological sampling strategies</a>, and how might any particular sampling strategies bias archaeological interpretation?
+  
+- What are <a href="https://wayback.archive-it.org/6471/20150825200215/http://cast.uark.edu/home/research/archaeology-and-historic-preservation/archaeological-geomatics.html" target="_blank">GIS and remote sensing</a>, and how do these contribute to archaeological research today?
+
+- What type of situations may call for horizontal excavation, vertical excavation, or both?
+
+- How may differential site preservation affect archaeologists' interpretations of the past?
+ 
+ 
+### Objectives
+
+By the end of this lesson, you should be able to successfully:
+
+- Compare different theoretical approaches in archaeology-culture history, processual, and postprocessual approaches.
+
+- Understand basic archaeological concepts-sites, types of artifacts, sampling, etc.
+
+- Understand the steps in locating and extracting archaeological data-survey, excavation, geographic information systems (GIS).
+
+- Understand the basic principles of different types of archaeological dating methods, including their strengths and limitations.
+
+
+-----
+#### Continue
+Continue through the module to access more.

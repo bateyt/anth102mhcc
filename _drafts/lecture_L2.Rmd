@@ -1,0 +1,52 @@
+---
+title: "Lesson 2 Lecture Info"
+author: "ANTH 102-W1"
+date: ""
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+---
+
+### What to expect
+Activities for this lesson include participation in a discussion forum and a quiz. To prepare you for these activities, this lesson includes a slideshow and various online resources (websites, video, etc.). You should take advantage of all of these resources. 
+
+
+<CENTER>
+<figure>
+  <img src="http://t0.geograph.org.uk/stamp.php?id=2612799&title=on&gravity=SouthEast&hash=e6b37c89">
+  <figcaption>This shows the quayside of <a href="http://www.geograph.org.uk/reuse.php?id=2612799" target="_blank">the newly discovered Roman port</a> on the River Usk; the first to be located outside London. The river runs just beyond the hedge in the background.
+  </figcaption>
+</figure>
+</CENTER>
+
+<br>
+
+### A note on linked web resources
+Remember, take the time to check out the web links I provide. They can clarify highlights that you find in the lecture slideshow. Before getting started, check to see if you have fallen prey to any <a href="http://www.saa.org/AbouttheSociety/EducationandOutreach/CurriculumLinks/ArchaeologyintheClassroom/MythsandMisconceptions/tabid/209/Default.aspx" target="_blank">common misconceptions about archaeology</a>, some of which have already been considered.
+
+If a hyperlink doesn't work with a simple click, right-click and select "Open in a new tab/window."
+
+<CENTER>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g0syC-u-3og?list=PLOl0w12Pwsb0LSNHa-zENW7Kg80jKxS2X" frameborder="0" allowfullscreen></iframe>
+</CENTER>
+
+<br>
+
+### Lecture Slideshow
+To provide more background information and highlight the main concepts, I have provided a slideshow on the following page.
+
+### Readings
+We are concentrating on the "how to" of archaeology in this lesson, including why archaeologists use specific methods. For example: <a href="http://www.southalabama.edu/archaeology/education_why-archaeologists-dig-square-holes.html" target="_blank">Why do archaeologists dig square holes?</a> 
+
+### What's next?
+
+- Lesson 2 Discussion: How to "Archaeologize"
+
+- Lesson 2 Quiz: This quiz will review some of the pertinent points from this lesson. If needed, you may use any provided content to answer the questions.
+
+
+---------
+
+#### Continue
+Continue through the module to access the slideshow and other content.
