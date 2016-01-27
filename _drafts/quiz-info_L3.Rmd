@@ -1,7 +1,7 @@
 ---
 title: "Quiz Info"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -12,7 +12,7 @@ output:
 This quiz reviews the terms and concepts introduced in Lesson 3, related to classification and analysis of archaeological data and how archaeologists interpret the results in reconstructing the past.
 
 ### Quiz Environment
-This quiz is not proctored, and there is no time limit. You may use the lecture slideshows, textbook, and any other online resources provided to help you answer the questions. __This quiz may only be taken once.__
+This quiz is not proctored, and there is no time limit. You may use the lecture slideshows and any other online resources provided to help you answer the questions. __This quiz may only be taken once.__
 
 ### Availability
 The Lesson 3 Quiz is available Friday through the end of the day, Monday.

@@ -1,7 +1,7 @@
 ---
 title: "Lesson 3 Lecture Info"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -9,11 +9,7 @@ output:
 ---
 
 ### What to expect
-Activities for this lesson include a writing assignment---an "artifact" classification/description----and a quiz. There is an open discussion forum for Lesson 3, but it is optional. To prepare you for these activities, this lesson includes a slideshow, recommended readings from the textbook, and links to online resources. You should take advantage of all of these resources. Remember, one successful strategy is to do the following:
-
-- Skim the related textbook pages, focusing on main concepts (e.g., sections and items in bold-type).
-- Watch the lecture slideshow. 
-- Read the related textbook pages again. Remember, it helps to know what an unfamiliar words mean, and with foreign concepts, it may not be readily apparent from the context.
+Activities for this lesson include a writing assignment---an "artifact" classification/description----and a quiz. There is an open discussion forum for Lesson 3, but it is optional. To prepare you for these activities, this lesson includes a slideshow and recommended online resources (webpages, video, etc.). You should take advantage of all of these resources. 
 
 
 ### Artifact Classification
@@ -30,7 +26,7 @@ A good classification system for a particular artifact type can be extremely use
 
 
 ### A note on linked web resources
-Remember, take the time to check out the web-links I provide. Often, they (along with the textbook) clarify highlights that from the lecture slideshow.
+Remember, take the time to check out the web-links I provide. Often, they clarify and provide details on highlights from the lecture slideshow.
 
 __If a hyperlink doesn't work with a simple click, right-click and select "Open in a new tab/window."__
 
@@ -44,7 +40,7 @@ We are concentrating the process of artifact classification, the analysis of arc
 - Lesson 3 Assignment: Artifact Classification/Description
 
 - Lesson 3 Quiz
-    + This quiz will review some of the pertinent points from this lesson. If needed, you may use the lecture notes, textbook, or other resources I have provided to answer the questions.
+    + This quiz will review some of the pertinent points from this lesson. You may use the lecture slides and any other resources provided to answer the questions.
     
 - Lesson 3 (Open) Discussion: Anything Archaeology
     + This is an __optional__ discussion forum that gives you and your classmates an opportunity to share what you felt was most interesting or surprising about the content covered in Lesson 3. More information on this forum is included on the "Discussion Info/Instructions" page.

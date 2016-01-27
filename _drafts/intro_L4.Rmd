@@ -1,33 +1,51 @@
 ---
 title: "Lesson 4 Introduction"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
     theme: united
 ---
 
-So, now you know what archaeology is, how to do it, and how archaeologists interpret their results in order to reconstruct the past. Now, it's time to consider the state of archaeology today. In this lesson, we will further explore the following:  the __goals of archaeology__ and the __theoretical approaches archaeologists use__ to get from observed data to interpretation; the types of __education and training__ necessary to be a professional archaeologist; the growing importance of __public/community archaeology__; and __ethical issues__ related to archaeology.
+So, now you know what archaeology is, how to do it, and how archaeologists interpret their results in order to reconstruct the past. Now, it is time to consider the state of archaeology today. In this lesson, we will further explore the following:  the __goals of archaeology__ and the __theoretical approaches archaeologists use__ to get from observed data to interpretation; the types of __education and training__ necessary to be a professional archaeologist; the growing importance of __public/community archaeology__; and __ethical issues__ related to archaeology.
 
 <!--Below, check out an aerial view of the <a href="http://www.nlm.nih.gov/nativevoices/exhibition/healing-ways/medicine-ways/medicine-wheel.html" target="_blank">Medicine Wheel</a>, an archaeological site with astronomical and biocultural significance, located within Bighorn National Forest in central Wyoming. Why did people construct this monument about 800 years ago? For what was it used? What significance did it have as a <a href="http://campusarch.msu.edu/?p=1292" target="_blank">sacred space</a>?-->
 
 <br>
 
-<img src="http://www.saa.org/Portals/0/SAA/PUBLIC/images/w250x249_THIEF%20OF%20TIME%20cropped.jpg">
+<CENTER>
+<figure>
+  <img src="https://lh3.googleusercontent.com/TcGk1akdq81C5nGGc8k7gzk_pkVfNh2FivC7kr89keQRAw9isoLKZ2kZReq8M41EuhZ37c6ONaU48-OKUpl-HlNU6fJgG6A1GKLuBxbH4GHCzcEZ7ATE4e4kd1xb2g_ruThXAdcMsS17yZfMXj-Iw6KlNrZC2vWAcQViLcbPIwwn4OPctmOAKRTBx5peRvJCXLhJU5NNzICdexK5imZ2GoFlJrVJacX_WErcK6jxoJ6cvMzLBT7J8dAGgT322ZjA8czFOjTqbCFxSW3oaEMAQCuAz2_iLJsO58ICUQoNWwwqMFuzTCRqNSoZKeskMO-3IhKIiWlV_bUgYKL_X2JEPFV1NY0vD3xJlNUvaUA8Nl8aFfwd2TbG_tX1lwbTWZaeQmhgiFmQCIKcm3XvAGaHlXyxcFwpL82heWVgTvPXWGojrGyZczVw_0r0gyIXVPvfrTAcbLcElII3QUNSP2j9AvWtvIRcKYLKF0e6Lmt2cRu4SnrNt8hk_BiR0iYB-Wi9rtO1OaYnKdFYbmb2YABwundWN3O7QUHpi33COwOloIZex0ePyA654WiYjqg736WyXPt_=w656-h646-no" width="375">
+  <figcaption>Looting of archaeological sites continues to be an issue in the U.S. and around the world today.</figcaption>
+</figure>
+</CENTER>
+
 
 <br>
 
-In this lesson, we will focus on the methods that archaeologists use to analyze their data and, eventually, interpret the results of those analyses in order to reconstruct the past. It may help to skim over previous readings, just to refresh yourself with some of the terminology that we have already covered.
+In this lesson, we will focus on the following:
+
+- the methods that archaeologists use to analyze their data;
+- the theoretical frameworks in which archaeologists interpret the results of those analyses in order to reconstruct the past;
+- some basic models of cultural change;
+- archaeology today, including the concepts of public/community archaeology, working with descendant communities; and
+- the protection of cultural heritage (specifically archaeological resources) from looters and in areas of armed conflict.
  
 You should access, read over, and explore the information provided in the links below:
 
+__*Public Archaeology*__
+
 - <a href="http://www.nps.gov/archeology/" target="blank">US National Park Service Archaeology Program</a>
 - <a href="http://www.archaeological.org/" target="_blank">Archaeological Institute of America</a>
-- <a href="http://ethics.aaanet.org/ethics-statement-0-preamble/" target="_blank">American Anthropological Association Ethical Standards</a>
-- <a href="http://www.saa.org/publicftp/PUBLIC/resources/law_ethics.html" target="_blank">Archaeological Laws and Ethics for Professional Archaeologists</a>
+- <a href="http://www.saa.org/publicftp/public/forArchaeologists/outreach_PAis.html" target="_blank">What is public archaeology?</a>
+
+__*Law and Ethics in Archaeology*__
+
+- <a href="http://www.nps.gov/Archeology/public/publicLaw.htm" target="_blank">Laws affecting preservation of archaeological resources in the United States</a> (takes a minute to load page)
+- <a href="http://www.saa.org/publicftp/PUBLIC/resources/ethics.html" target="_blank">SAA's Principles of Archaeological Ethics</a>
 - <a href="http://rpanet.org/?" target="_blank">Register of Professional Archaeologists</a>
-- <a href="http://www.saa.org/publicftp/public/forArchaeologists/outreach_PAis.html" target="_blank">What is Public Archaeology?</a>
+
 
 
 ### Objectives

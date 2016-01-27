@@ -1,7 +1,7 @@
 ---
 title: "Lesson 4 Quiz Info"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -9,10 +9,10 @@ output:
 ---
 
 ### What content is covered?
-This quiz reviews the terms and concepts contained in Lesson 4, related to the discipline of archaeology today: goals, theoretical approaches, and challenges in the modern world.
+This quiz reviews the terms and concepts contained in Lesson 4, related to the discipline of archaeology today: goals, theoretical approaches, public archaeology, and challenges for archaeology in the modern world.
 
 ### Quiz Environment
-This quiz is not proctored, and there is no time limit. You may use the lecture slideshows, textbook, and any other online resources provided to help you answer the questions. __This quiz may only be taken once.__
+This quiz is not proctored, and there is no time limit. You may use the lecture slideshows and any other online resources provided to help you answer the questions. __This quiz may only be taken once.__
 
 ### Availability
 The Lesson 4 Quiz is available Friday through the end of the day, Monday.

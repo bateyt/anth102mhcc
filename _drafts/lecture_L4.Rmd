@@ -1,7 +1,7 @@
 ---
 title: "Lesson 4 Lecture Info"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -17,15 +17,20 @@ Activities for this lesson include the following:
 
 - __*Midterm Exam*__
 
-To prepare you for these activities, this lesson includes a slideshow, recommended readings from the textbook, and links to online resources.
+To prepare you for these activities, this lesson includes a slideshow and supplemental, online content.
 
-Some of what you encounter in this lesson will be review, as we've been hovering around in the first two chapters of the textbook. Before we launch into our survey of world prehistory in the next lesson, we're going to bring what we've learned so far together and firm up our grasp on archaeology today, as opposed to 150 (or even 50) years ago. The picture below shows some excavations from a community archaeology project at the cliffs at Low Hauxley, Northumberland (UK). Archaeological remains at the site date back to at least the Mesolithic.
+Some of what you encounter in this lesson will be review. Before we launch into our survey of world prehistory in the next lesson, we are going to bring what we have learned so far together and firm up our grasp on archaeology today, as opposed to 150 (or even 50) years ago. The picture below shows some excavations from a community archaeology project at the cliffs at Low Hauxley, Northumberland (UK).
 
-<img src="http://s0.geograph.org.uk/geophotos/03/58/94/3589405_414ec64e.jpg">
+<CENTER>
+<figure>
+  <img src="http://s0.geograph.org.uk/geophotos/03/58/94/3589405_414ec64e.jpg">
+  <figcaption>Archaeological remains at the site above date back to at least the Mesolithic.</figcaption>
+</figure>
+</CENTER>
 
 
 ### A note on linked web resources
-Remember, take the time to check out the web-links I provide. Often, they (along with the textbook) clarify highlights that from the lecture slideshow.
+Remember, take the time to check out the Internet resources provided. Often, they clarify and provide more detail for the highlights from the lecture slideshow.
 
 __If a hyperlink doesn't work with a simple click, right-click and select "Open in a new tab/window."__
 
@@ -33,13 +38,25 @@ __If a hyperlink doesn't work with a simple click, right-click and select "Open 
 To provide more background information and highlight the main concepts, I have provided a slideshow on the following page.
 
 ### Readings
-We are reviewing archaeology today---goals, theoretical approaches, and challenges in the modern world. While you may want to review Chapter 1, concentrate on Chapter 2 in the textbook (see Tentative Schedule for pages). Again, it may be useful to look over the terms at the end of each chapter before you read the material.
+Read over the following content related to protecting archaeological resources and cultural heritage, specifically related to current events in Syria and Oregon.
+
+- Protecting archaeological resources in the Northwest
+    + Burns Paiute Tribe and <a href="http://www.opb.org/news/article/burns-paiute-tribe-malheur-refuge-artifacts/" target="_blank">the occupation of the Malhuer National Wildlife Refuge</a>
+    + <a href="http://www.opb.org/news/article/burns-paiute-tribe-malheur-refuge-artifacts/" target="_blank">Coal exporter disturbs archaeological site</a> in Washington
+    <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182748475&color=ff5500&show_artwork=false"></iframe>
+    
+- Protecting archaeological resources in areas of armed conflict, such as some Middle Eastern countries   
+    + <a href="https://oi.uchicago.edu/museum-exhibits/special-exhibits/oriental-institute-university-chicago-examine-looting-iraq-nation-0" target="_blank">Looting of Iraq's cultural heritage</a> since the 2003 U.S. invasion
+    + <a href="http://www.nytimes.com/interactive/2015/06/29/world/middleeast/isis-historic-sites-control.html?_r=0" target="_blank">ISIS destroys archaeological sites</a> in Syria and Iraq
+    
+- Modern development on land with known archaeological sites
+    + Imagine saying, "I live in <a href="http://www.slate.com/articles/health_and_science/science/2015/06/indian_camp_ranch_private_archaeology_looting_destruction_of_puebloan_sites.single.html" target="_blank">an archaeological subdivision</a>."
 
 ### What's next?
 
 - Lesson 4 Discussion: Archaeology Today
 
-- Lesson 4 Quiz: This quiz will review some of the pertinent points from this first lesson. If needed, you may use the lecture notes, textbook, or other resources I've provided to answer the questions.
+- Lesson 4 Quiz: This quiz will review some of the pertinent points from this first lesson. If needed, you may use the lecture notes and other resources provided to answer the questions.
 
 - Midterm Exam:  This exam covers material in Lessons 1--4. It will be availalbe Thursday through Sunday.
 

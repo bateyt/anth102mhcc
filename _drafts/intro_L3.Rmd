@@ -1,7 +1,7 @@
 ---
 title: "Lesson 3 Introduction"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -12,9 +12,23 @@ Now you have a grasp of the basic "how to" of archaeology, particularly with res
 
 Below, check out an aerial view of the <a href="http://www.nlm.nih.gov/nativevoices/exhibition/healing-ways/medicine-ways/medicine-wheel.html" target="_blank">Medicine Wheel</a>, an archaeological site with astronomical and biocultural significance, located within Bighorn National Forest in central Wyoming. Why did people construct this monument about 800 years ago? For what was it used? What significance did it have as a <a href="http://campusarch.msu.edu/?p=1292" target="_blank">sacred space</a>?
 
+<CENTER>
+<figure>
+  <img src="http://upload.wikimedia.org/wikipedia/commons/9/91/MedicineWheel.jpg" width="512">
+  <figcaption>Bighorn Medicine Wheel</figcaption>
+</figure>
+</CENTER>
+
 <br>
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/9/91/MedicineWheel.jpg" width="512">
+As an archaeologist, one must try to avoid the trap of thinking about all human behavior in the past tense. Consider this specific property in downtown New York City (pictured below). Many people attach varied meanings and feelings to geographic space/place; this is how we create our __cultural landscape__.
+
+<CENTER>
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/WTCmemorialJune2012.png">
+  <figcaption>National September 11 Memorial & Museum</figcaption>
+</figure>
+</CENTER>
 
 <br>
 

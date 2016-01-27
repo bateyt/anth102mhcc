@@ -1,7 +1,7 @@
 ---
 title: "Lesson 3 Assignment---Artifact Classification/Description"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     theme: united
@@ -18,7 +18,7 @@ While excavating, you and your team recover many different types of artifacts. F
 <br>
 
 1. Choose an "artifact" that has been recovered from the site. To to this:
-    + Review what an __artifact__ is---an item (portable item) manufactured or altered by human activity.
+    + Check the glossary to review the terminology that archaeologists use:  What an <a href="https://diigo.com/08aol0" target="_blank"><b>artifact</b></a>?
 
 > Artifacts are distinguished from the main body of the archaeological record such as stratigraphic features, which are non-portable remains of human activity, such as hearths, roads, deposits, trenches or similar remains, and from biofacts or ecofacts, which are objects of archaeological interest made by other organisms, such as seeds or animal bone. (Wikipedia)
 
