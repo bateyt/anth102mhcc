@@ -1,7 +1,7 @@
 ---
 title: 'Lesson 7 Discussion:  Just Eat It!'
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -17,32 +17,34 @@ output:
 In this discussion activity, students will ponder what the archaeological evidence suggests about variation in plant/animal domestication and developments in social complexity around the world.
 
 ### Instructions
-After going through the lesson content, including textbook readings, slideshow, and other electronic resources, create an initial thread and respond to the following: 
+After going through the lesson content, including module pages, the lecture slideshow, and other electronic resources, complete the following: 
 
-- Choose a specific region/site discussed in the textbook readings or supplemental material. __What information did you find most interesting about...__
+1. Choose a specific region/site discussed in this lesson's content (module, slides, web links). Address these two questions:
+
+- What information did you find most interesting about...
     + the particular plants/animals domesticated there?
     + evidence for developments in social complexity there?
     
-- Throughout the week, return to the discussion forum and submit a response to at least two classmates' original threads. After that, feel free to comment as you like.
+2. Throughout the week, return to the discussion forum and submit a response to __at least two classmates' original threads__. After that, feel free to comment as you like.
 
 ### Evaluation Criteria
 You will be evaluated on the following:
 
 - Content: There is no required word count, _per se_, but you must adequately address the questions posed and provide a meaningful, well-thought response. Did you answer the discussion question (and reply) with a thoughtful response that includes references to material presented in the lecture, readings, and/or web-readings?
 
-- Grammar/style: Did you use proper grammar and style (spelling, complete sentencesâ€¦) making your post easy to understand?
+- Grammar/style: Did you use proper grammar and style (spelling, complete sentences) making your post easy to understand?
 
 - Participation: Did you submit the required number of posts (3). Initial thread and response posts must be made on *three separate days*. [Students must submit their initial threads by the end-of-day Thursday (at the latest) and your response posts should come over the rest of the week. You may submit more than the minimum required.]
 
 - Follow the general guidelines of discussion etiquette (see Syllabus).
 
 ### Getting Started
-To prepare for this discussion, you should watch the lecture slideshow and, assuming you have the textbook, skim through the supplemental readings.
+To prepare for this discussion, you should go through the module pages, lecture slideshow, and web links provided.
 
-Access the Discussion Forum, "Just Eat It!", and follow the instructions above. __For this activity, you must first submit your intial thread _before_ you can view/respond to other posts.__
+Access the Discussion Forum, "Just Eat It!", and follow the instructions above. __For this activity, you must first submit your intial thread *before* you can view/respond to other posts.__
 
 
 
 -----
 #### Continue
-__Be sure to mark this page as "reviewed."__ Then, go to the next page to access a link to the discussion forum. If the forum does not automatically open in a new window, click "€œClick to Launch."
+__Be sure to mark this page as "reviewed."__ Then, go to the next page to access a link to the discussion forum. If the forum does not automatically open in a new window, click "Click to Launch."

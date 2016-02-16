@@ -1,24 +1,44 @@
 ---
 title: "Lesson 7 Introduction"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
     theme: united
 ---
 
-In the previous lesson, you explored the early origins of agriculture and social complexity, but the discussion was limited to the region of the Near East (Levant)---specifically with the Natufian culture and later Neolithic cultures---and, to a lesser degree, southeastern Europe (i.e., LBK culture). In this lesson, we'll broaden our scope to consider domestication of plants and animals and developments in social complexity in other regions of the world, particularly in North and South America (including what is often termed *Mesoamerica*Äù), Africa, China, and some parts of <a href="http://en.wikipedia.org/wiki/Australasia" target=_"blank">Australasia</a>.
+In the previous lesson, you explored the early origins of agriculture and social complexity, but the discussion was fairly limited to the region of the Near East (Fertile Crescent, particularly the Levant)---specifically with the Natufian culture and later Neolithic cultures---and, to a lesser degree, southeastern Europe (i.e., LBK culture). In this lesson, we will broaden our scope to consider domestication of plants and animals and developments in social complexity in other regions of the world, particularly in North and South America (including what is often termed *Mesoamerica*), Africa, China, and some parts of <a href="http://en.wikipedia.org/wiki/Australasia" target=_"blank">Australasia</a>.
 
-One of the messages to take away from this lesson is that the processes of plant and animal domestication did not follow the same trajectory in all places and times. For example, in much of Africa (like Egypt's Nabta Playa in the map below), archaeological data suggest that some animal species may have been domesticated before any plant species were and that some of these human groups traveled with their animal herds---a subsistence strategy called __pastoralism__. Also, evidence from other regions of the world, like the Andean region of South America, show that large, sedentary villages did not necessarily *always* occur together.
+If you did not get this from the previous lesson, here is one important take-away:  __the processes of plant and animal domestication did not follow the same trajectory in all places and times__. For example, in much of Africa (like Egypt's Nabta Playa in the map below), archaeological data suggest that some animal species may have been domesticated before any plant species were and that some of these human groups traveled with their animal herds---a subsistence strategy called __pastoralism__. 
+
+<br>
+
+<CENTER>
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nabta-Egypt_NL.jpg/800px-Nabta-Egypt_NL.jpg" width="300">
+  <figcaption>Approximate location of Nabta Playa (red outline) in Upper (southern) Egypt. Public Domain via <a href="https://commons.wikimedia.org/wiki/File:Nabta-Egypt_NL.jpg#/media/File:Nabta-Egypt_NL.jpg" target="_blank">Commons</a>.</figcaption>
+</figure>
+</CENTER>
+  
+<br>
+
+Some archaeologists have argued that Nabta Playa holds evidence for the earliest domestication (cattle) in Africa, though this is still debated. Another interesting fact about this site is its megalithic structures and their <a href="http://articles.adsabs.harvard.edu//full/2007AfrSk..11....2M/0000002.000.html" target="_blank">potential astronomical, symbolic importance</a>.
 
 <br>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1050478.913654875!2d30.72498321533203!3d22.508275226887765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjLCsDMwJzMwLjAiTiAzMMKwNDMnMzAuMCJF!5e1!3m2!1sen!2sus!4v1431408388200" width="400" height="300" frameborder="0" style="border:0"></iframe>
-
+<CENTER>
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Calendar_aswan.JPG/1024px-Calendar_aswan.JPG" width="300">
+  <figcaption>Reconstruction of Nabta Playa's Calendar Circle. Image by Raymbetz / <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> via <a href="https://commons.wikimedia.org/wiki/File:Calendar_aswan.JPG" target="_blank">Wikimedia Commons</a>.</figcaption>
+</figure>
+</CENTER>
+  
 <br>
+
+Also, evidence from other regions of the world, like the Andean region of South America, show that large, sedentary villages and intensive agricultural practices did not necessarily *always* occur together.
  
-While some of the information covered in this lesson may be a review of concepts we've already discussed, we will be looking at some new information, too. In particular, we'll look at some of the "mound-building" cultures of ancient North America, like the Adena and Hopewell cultures. 
+While some of the information covered in this lesson may be a review of previous concepts, we will be looking at some new information, too. In particular, we will consider some of the "mound-building" cultures of ancient North America, like the Adena and Hopewell cultures. 
 
 One thing that this lesson will do is further illustrate that archaeological evidence gathered since the mid-1900's does not support V. Gordon Childe's concept of the Neolithic "Revolution." This is not to discredit Childe; he was working within the theoretical frameworks and data available at that time. As with other sciences, though, our models must change to better explain the observed data, or at least be subjected to scrutiny, in light of new evidence.
 
