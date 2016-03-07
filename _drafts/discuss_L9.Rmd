@@ -1,7 +1,7 @@
 ---
 title: "Lesson 9 Introduction"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -23,7 +23,7 @@ In this discussion activity, you will reflect and share what you found most inte
 <br>
 
 ### Instructions
-After going through the lesson content, including textbook readings, slideshow, and other electronic resources, create an initial thread and respond to the following: 
+After going through the lesson content, slideshow, and other electronic resources, create an initial thread and respond to the following: 
 
 - What did you find most interesting and/or surprising from the Lesson 9 content covering the Harappan, Chinese, and Khmer civilizations of Asia? __Why?__
     
@@ -54,7 +54,7 @@ You will be evaluated on the following:
 
 
 ### Getting Started
-To prepare for this discussion, you should watch the lecture slideshow and, assuming you have the textbook, skim through the supplemental readings.
+To prepare for this discussion, you should read through the module pages, access and read content from external web-links, and watch the lecture slideshow.
 
 - Mark this page as reviewed.
 
@@ -63,4 +63,4 @@ To prepare for this discussion, you should watch the lecture slideshow and, assu
 -----
 
 #### Continue
-__Be sure to mark this page as "reviewed."__ Then, go to the next page to access a link to the discussion forum. If the forum does not automatically open in a new window, click "€œClick to Launch."
+__Be sure to mark this page as "reviewed."__ Then, go to the next page to access a link to the discussion forum. If the forum does not automatically open in a new window, click "Click to Launch."

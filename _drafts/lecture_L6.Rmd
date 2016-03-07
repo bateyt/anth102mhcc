@@ -1,7 +1,7 @@
 ---
 title: "Lesson 6 Lecture Info"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -45,7 +45,7 @@ In this lesson, we look at the evidence for the origins of agriculture, and our 
 
 
 ### A note on linked web resources
-Remember, take the time to check out the web-links I provide. Often, they (along with the textbook) clarify highlights that from the lecture slideshow.
+Remember, take the time to check out the web-links I provide. Often, they clarify highlights from the lecture slideshow.
 
 __If a hyperlink doesn't work with a simple click, right-click and select "Open in a new tab/window."__
 
@@ -55,7 +55,7 @@ To provide more background information and highlight the main concepts, I have p
 
 
 ### Readings
-The content for this week's lesson can be found primarily in Chapter 7 of the textbook. Again, it may be useful to look over the terms at the end of each chapter before you read the material.
+Readings for this week include links and other audio/video provided within the module pages.
 
 
 ### What's next?

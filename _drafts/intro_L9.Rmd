@@ -1,7 +1,7 @@
 ---
 title: "Lesson 9 Introduction"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -24,7 +24,7 @@ In the Indus Valley, we will concentrate on the Harappan culture, known for its 
  
 <br>
 
-Be sure to watch the lecture slideshow and spend some time browsing the online resources (provided) and supplementary readings in the textbook.
+Be sure to watch the module pages, lecture slideshow, and spend some time browsing the online resources provided.
 
 <br>
 

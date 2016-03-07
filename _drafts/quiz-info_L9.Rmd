@@ -1,7 +1,7 @@
 ---
 title: "Quiz Info"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -20,7 +20,7 @@ This quiz reviews the terms and concepts contained in this lesson:
 
 
 ### Quiz Environment
-This quiz is not proctored, and there is no time limit. You may use the lecture slideshow, textbook, and any other online resources provided to help you answer the questions. This quiz may only be taken once.
+This quiz is not proctored, and there is no time limit. You may use any module content, the lecture slideshow, and any other online resources provided to help you answer the questions. This quiz may only be taken once.
 
 ### Availability
 The Lesson 9 Quiz will be available Friday and is due by the end of the day Monday. [Remember, you can always check due dates by clicking on the My Grades button in the left-side menu.]

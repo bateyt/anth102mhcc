@@ -1,7 +1,7 @@
 ---
 title: "Lesson 6 Quiz Info"
 author: "ANTH 102-W1"
-date: "Spring 2016"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -12,7 +12,7 @@ output:
 This quiz reviews the terms and concepts contained in Lesson 6, related to the Epipaleolithic and Neolithic periods of the Levant region of the Middle East (Fertile Crescent, generally). Important topics include the Kebaran and Natufian cultural periods, the Pre-Pottery and Pottery Neolithic (PPN and PN, respectively) periods, the domestication of plants/animals, and the spread of domestication into Europe (e.g., Linearbandkeramik).
 
 ### Quiz Environment
-This quiz is not proctored, and there is no time limit. You may use the lecture slideshows, textbook, and any other online resources provided to help you answer the questions. __This quiz may only be taken once.__
+This quiz is not proctored, and there is no time limit. You may all provided resources to help you answer the questions. __This quiz may only be taken once.__
 
 ### Availability
 The Lesson 6 Quiz is available Friday through the end of the day, __*Monday*__.

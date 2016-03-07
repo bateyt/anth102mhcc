@@ -1,7 +1,7 @@
 ---
 title: "Lesson 8 Discussion:  I'm in a City-State of Mind"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -11,13 +11,13 @@ output:
 In this discussion activity, students will reflect upon the differences (and any similarities) in how state-level organization developed in Mesopotamia, Egypt, and the Aegean.
 
 ### Instructions
-After going through the lesson content, including textbook readings, slideshow, and other electronic resources, create an initial thread and respond to the following: 
+After going through the module content, slideshow, and other electronic resources, create an initial thread and respond to the following: 
 
 - _Concisely_ compare and contrast the emergence of state-level social organization developed in Mesopotamia, Egypt, and the Aegean.
-    + Your analysis should include the major factors, discussed in the textbook, slideshow, and/or other resources that affected the process in these regions.
+    + Your analysis should include the major factors, discussed in the lesson module, slideshow, and/or other resources that affected the process in these regions.
     + Did you notice in similarities in state-formation in these regions?
     
-- Was there anything, in particular, that you found fascinating about the content in this lesson---either in the textbook, slideshow, or links to additional resources?
+- Was there anything, in particular, that you found fascinating about the content in this lesson---either in the module pages, slideshow, or links to additional resources?
     
 Next, throughout the week, return to the discussion forum and submit a response to at least two classmates' original threads. After that, feel free to comment as you like.
 
@@ -35,9 +35,9 @@ You will be evaluated on the following:
 
 
 ### Getting Started
-To prepare for this discussion, you should watch the lecture slideshow and, assuming you have the textbook, skim through the supplemental readings.
+To prepare for this discussion, you go over the lesson content, slideshow, and additional web content.
 
-Access the Discussion Forum, "I'm in a City-State of Mind" ù and follow the instructions above. __For this activity, you must first submit your intial thread _before_ you can view/respond to other posts.__
+Access the Discussion Forum, "I'm in a City-State of Mind" and follow the instructions above. __For this activity, you must first submit your intial thread _before_ you can view/respond to other posts.__
 
 <br>
 

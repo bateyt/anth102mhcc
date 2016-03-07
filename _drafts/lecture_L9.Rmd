@@ -1,7 +1,7 @@
 ---
 title: "Lesson 9 Introduction"
 author: "ANTH 102-W1"
-date: "Spring 2015"
+date: ""
 output:
   html_document:
     fig_caption: yes
@@ -18,7 +18,7 @@ As you will see, archaeologists are learning more and more about the development
 On the other hand, many traditions of modern-day Chinese culture (not their communist political system, of course) have roots in the early, state-level civilizations there. Also, the Khmer culture, which developed into an empire, is just recently becoming better known to archaeologists. In this lesson, we'll be considering cultural developments in these regions.
 
 ### A note on linked web resources
-Remember, take the time to check out the web-links I provide. Often, they (along with the textbook) clarify highlights that from the lecture slideshow.
+Remember, take the time to check out the web-links I provide. Often, they clarify highlights from the lecture slideshow.
 
 - Indus Valley cultures
     + Tour some of the great prehistoric/historic <a href="http://www.harappa.com/indus/indus1.html" target="_blank">civilizations of the Indus Valley</a>. Marvel at the standardization of Harappan urban centers, like <a href="http://www.harappa.com/walk/" target="_blank">Harappa</a> and <a href="http://www.mohenjodaro.net/index.html" target="_blank">Mohenjo-Daro</a>. 
@@ -52,8 +52,6 @@ __If a hyperlink doesn't work with a simple click, right-click and select "Open 
 ### Lecture Slideshow
 To provide more background information and highlight the main concepts, I have provided a slideshow on the following page.
 
-### Readings
-Content for this lesson comes primarily from Chapter 12 in the textbook. As usual, it would be useful to at least skim over the material before proceeding through the module.
 
 ### What's next?
 - Lesson 9 Discussion:  Exploring Asian (Pre-)History
